@@ -17,6 +17,7 @@
 - First-author of SCI Q1 paper (under review)
 - KATUSA veteran (US 8th Army), ARCOM & Best KATUSA recipient
 - CTF player, tool builder, software security enthusiast
+- Aesthetic UX / UI Designer
 
 ---
 
@@ -90,9 +91,16 @@
 ## 🏅 Awards & Recognition
 
 - 🥇 1st Place, Cryptography Competition (Dankook Univ. / NIS, 2023)
-- 🪖 ARCOM – Army Commendation Medal (US Army)
-- 🏆 Best KATUSA – Awarded by ROK Battalion Commander
-- 🧾 Environmental Officer Certification (US 35th ADA Battalion)
+- ARCOM – Army Commendation Medal (US Army)
+- Best KATUSA – Awarded by ROK Battalion Commander
+- Environmental Officer Certification (US 35th ADA Battalion)
+
+---
+
+## 📝 Extracurricular Experiences
+
+- Aegis: A software development and cybersecurity club at Dankook University. (2021 Mar - Present)
+- LG Aimers AI Bootcamp & Hackathon: Developed a defect classification model for smart factory products; ranked top 30% in final evaluation. (2023 Jan - 2023 Feb)
 
 ---
 
