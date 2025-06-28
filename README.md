@@ -131,4 +131,11 @@
 
 ---
 
+## 📊 Top Languages Used
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohkyoungmin&layout=compact&theme=default" />
+</p>
+
+---
 <p align="center"><i>“Defense is not reactive — I design systems that learn, adapt, and secure by design.”</i></p>
