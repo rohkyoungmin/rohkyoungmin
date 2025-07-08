@@ -1,11 +1,12 @@
 <div align="center" style="margin-bottom: 1rem;">
-  <a href="https://github.com/rohkyoungmin/CV/blob/main/Kyoungmin_Roh___CV.pdf" target="_blank">
+  <a href="https://github.com/rohkyoungmin/CV/raw/main/Kyoungmin_Roh___CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/%20Download%20CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
   <a href="https://github.com/rohkyoungmin/CV/blob/main/Kyoungmin_Roh___CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/%20View%20CV-on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
+
 
 <h1 align="center" style="font-family: 'Courier New', monospace;">Kyoungmin Roh</h1>
 <p align="center"><strong>Cybersecurity | Researcher | Designer</strong></p>
