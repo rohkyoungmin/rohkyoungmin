@@ -1,8 +1,8 @@
 <div align="center" style="margin-bottom: 1rem;">
-  <a href="https://github.com/rohkyoungmin/CV/raw/main/CV%20-%20Kyoungmin%20Roh.pdf" target="_blank">
+  <a href="https://github.com/rohkyoungmin/CV/blob/main/Kyoungmin_Roh___CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/%20Download%20CV-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
-  <a href="https://github.com/rohkyoungmin/CV/blob/main/CV%20-%20Kyoungmin%20Roh.pdf" target="_blank">
+  <a href="https://github.com/rohkyoungmin/CV/blob/main/Kyoungmin_Roh___CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/%20View%20CV-on%20GitHub-blue?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
