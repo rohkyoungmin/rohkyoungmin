@@ -23,7 +23,7 @@
 ## 🧾 About Me
 
 - Undergraduate researcher @ Dankook University (Cybersecurity major)
-- CSOS Lab (Prof. Seongje Cho), focusing on Android malware detection
+- CSOS Lab (Prof. Sungje Cho), focusing on Android malware detection
 - First-author of SCI Q1 paper (under review)
 - KATUSA veteran (US 8th Army), ARCOM & Best KATUSA recipient
 - CTF player, tool builder, software security enthusiast
