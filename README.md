@@ -9,43 +9,64 @@
 
 
 <h1 align="center" style="font-family: 'Courier New', monospace;">Kyoungmin Roh</h1>
-<p align="center"><strong>Cybersecurity | Researcher | Designer</strong></p>
+<p align="center"><strong>Cybersecurity Researcher</strong></p>
 
 <div align="center" style="margin-top: 1rem;">
   <a href="https://medium.com/@kyoungminroh01" target="_blank"><img src="https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://github.com/rohkyoungmin" target="_blank"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:kyoungminroh01@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/kyoungminroh" target="_blank"><img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
 
 <hr style="margin: 2rem 0;"/>
 
-## 🧾 About Me
-
-- Undergraduate researcher @ Dankook University (Cybersecurity major)
-- CSOS Lab (Prof. Seongje Cho), focusing on Android malware detection
-- First-author of SCI Q1 paper (under review)
-- KATUSA veteran (US 8th Army), ARCOM & Best KATUSA recipient
-- CTF player, tool builder, software security enthusiast
-- Aesthetic UX / UI Designer
+## Objective
+To pursue an academic career in cybersecurity as a professor, contributing to society through impactful research and education. I aim to develop technologies that improve security and people's lives, while fostering the next generation of scholars and practitioners who will continue to advance the field beyond my own contributes.
 
 ---
 
-## 🔬 Research & Publications
+## Research Interests
 
-- **Paper Under Review**:  
-  _Improving Long-term Robustness in Android Malware Detection with Fixed GMM clustering and Adaptive Thresholding_, *Computers & Security*  
-  → First-author (design, experiment, writing)
-
-- **Poster Under Review**:  
-  _AI-powered QR Phishing Detection and Secure QR Generation_
-
-- **Patent Filed**:  
-  _A Malware Detection Method Combining Clustering and Supervised Learning Models_  
-  Korea Application No. P2025141
+- Android Malware Analysis
+- Artificial Intelligence for Cybersecurity 
+- Cyber-Physical System Security
+- Post-Quantum and Quantum Cryptography
 
 ---
 
+## Research Experience
+
+- **IU SEC Lab, Department of Computer Science, Indiana University Bloomington**  
+  *Research Intern* 
+  Supervisor: Prof. Hyungsub Kim  
+  Researching open-source CPS (Cyber-Physical System) software security  
+  _Oct 2025 – Present_  
+  Bloomington, U.S.
+
+- **CSOS Lab, Department of Software Science, Dankook University**  
+  *Research Intern*  
+  Supervisor: Prof. Seongje Cho  
+  Developing an Android malware detection AI models using static analysis and Machine Learning  
+  _Mar 2025 – Present_  
+  Yongin, South Korea
+
+---
+
+## Education
+
+- **Dankook University**  
+  *B.E. in Cybersecurity*  
+  GPA: 3.0 / 4.5 (approximately 2.7 / 4.0 Scale in U.S.)
+
+---
+
+## Publications, Conferences, and Patents
+
+### SCI / SCIE Journals
+Under Review  
+[1] **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and"**
+
+
+
+---
 ## 🔐 Security Projects
 
 ### ▶ ASX: Android API Sequence Extractor  
