@@ -1,8 +1,5 @@
 <div align="center">
 
-<img src="./images/Indiana%20University%20Logo.jpg" width="85" style="margin-right: 1rem;"/>
-<img src="./images/dankook_logo.png" width="135"/>
-
 <h1 style="font-family:'Courier New', monospace;">Kyoungmin Roh</h1>
 <p><strong>Cybersecurity Researcher</strong>  
 📍 Seongnam-si, Gyeonggi-do, Republic of Korea | 📞 +82-10-2506-3409 | ✉️ <a href="mailto:kyoungminroh01@gmail.com">kyoungminroh01@gmail.com</a></p>
