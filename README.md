@@ -423,9 +423,9 @@ U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.
 ## 🌐 Languages
 - **Korean** — Native  
 - **English** — Professional (academic writing, fluent speaking/listening)  
-- **Japanese** — Conversational  
-- **Chinese** — Reading/Writing proficiency; limited listening  
-- **Arabic** — Basic communication  
+- **Japanese** — Conversational proficiency 
+- **Chinese** — Basic Reading/Writing communitcation; limited listening  
+- **Arabic** — Basic Alphabet, words
 
 ---
 
