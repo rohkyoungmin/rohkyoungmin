@@ -38,7 +38,7 @@ I aim to develop technologies that improve security and people’s lives, while 
   <!-- IU SEC Lab -->
   <tr>
     <td style="width:25%; text-align:center; vertical-align:middle;">
-      <img src="./images/Indiana%20University%20Logo.jpg" width="80">
+      <img src="./images/Indiana%20University%20Logo.png" width="80">
     </td>
     <td style="width:75%; vertical-align:middle;">
       <b>IU SEC Lab</b><br>
