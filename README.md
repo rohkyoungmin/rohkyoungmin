@@ -362,14 +362,17 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 - **RubiyaLab CTF Team** (Jul 2025 – Present)  
   - Member of South Korea’s #1 and Global Top 11 CTF team.  
-  - Specializes in crypto and reversing; participates in international ctf competitions under RubiyaLab.  
+  - Specializes in crypto and reversing; participates in international ctf competitions under RubiyaLab.
+  - 🔗 link: https://rubiyalab.team/
 
 - **OSINT TEAM Contributor** (Jul 2025 – Present)  
-  - Authored and published cybersecurity awareness articles for a global OSINT education platform.  
+  - Authored and published cybersecurity awareness articles for a global OSINT education platform.
+  - 🔗 link: https://www.osintteam.com/
 
 - **Aegis Cybersecurity Club**, *Dankook University* (Mar 2021 – Present)  
   - Actively participated in software development and CTF activities.  
-  - Contributed to creating awareness of secure coding and web exploitation prevention among peers.  
+  - Contributed to creating awareness of secure coding and web exploitation prevention among peers.
+  - 🔗 link: https://www.instagram.com/dku_aegis/
 
 ---
 
