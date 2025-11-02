@@ -36,9 +36,9 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 <table>
   <!-- IU SEC Lab -->
-  <tr>
+  <tr style="height:80px;">
     <td style="width:25%; text-align:center; vertical-align:middle;">
-      <img src="./images/Indiana%20University%20Logo.png" width="80">
+      <img src="./images/Indiana%20University%20Logo.png" width="120">
     </td>
     <td style="width:75%; vertical-align:middle;">
       <b>IU SEC Lab</b><br>
@@ -60,7 +60,7 @@ I aim to develop technologies that improve security and people’s lives, while 
   </tr>
 
   <!-- DKU CSOS Lab -->
-  <tr>
+  <tr style="height:80px;">
     <td style="width:25%; text-align:center; vertical-align:middle;">
       <img src="./images/dankook_logo.png" width="120">
     </td>
