@@ -95,6 +95,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 - Peroid: Mar 2021 – Expected Jan 2027
 - location: _Yongin, Republic of Korea_
 - GPA: 3.0 / 4.5 (≈ 2.7 / 4.0 U.S. Scale)  
+- Currently Undergraduate (Junior)
 
 ---
 ## 📚 Publications
