@@ -340,21 +340,21 @@ I aim to develop technologies that improve security and people’s lives, while 
 - **WDSC 2025 Best Paper Award** — *Korean Institute of Information Scientists and Engineers (KIISE)*  
   - Recognized for excellence in Android malware detection using API co-occurrence graphs and Louvain method.  
   - Selected among national submissions for outstanding contribution to robust detection models under concept drift.  
-  - Award presented at *WDSC 2025, Jeju, Republic of Korea (Aug 2025).*  
+  - Award presented at *WDSC 2025, Jeju, Republic of Korea* (Aug 2025).  
 
 - **Turing Cipher Idea Contest – 1st Place** — *Dankook University Department of Cybersecurity, sponsored by NIS (National Intelligence Service)*  
   - Proposed a hybrid post-quantum signature scheme combining Lamport and Merkle Tree.  
   - Achieved first place across all entries for originality, security soundness, and implementability (Sep 2023).  
 
-- **2025 Dankook Startup Hackathon – Participation Prize (3rd Place)**  
+- **2025 Dankook Startup Hackathon – Participation Prize (3rd Place)** — *Dankook University, National Center of Excellence in Software*  
   - Led a 5-person team to design *Ddobak*, an LLM-based speech correction app for hearing-impaired users.  
   - Recognized for creative application of AI in healthcare technology innovation (Sep 2025).  
 
-- **Specialized Project Scholarship – Dankook University (Jun 2022)**  
-  - Awarded for exceptional research initiative in AI security and project management excellence.  
+- **Specialized Project Scholarship** – *Dankook University, Department of Cybersecurity*  
+  - Awarded for exceptional research initiative in AI security and project management excellence (Jun 2022). 
 
-- **Admission Scholarship – Dankook University (Mar 2021)**  
-  - Granted upon entrance for outstanding academic performance and leadership potential.  
+- **Admission Scholarship** – *Dankook University*
+  - Granted upon entrance for outstanding academic performance and leadership potential (Mar 2021).  
 
 ---
 
