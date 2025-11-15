@@ -360,7 +360,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 ## 💥 Security-Related Experiences
 
-- **RubiyaLab CTF Team** (Jul 2025 – Present)  
+- **RubiyaLab CTF Team** (Jul 2025 – Nov 2025)  
   - Member of South Korea’s #1 and Global Top 11 CTF team.  
   - Specializes in crypto and reversing; participates in international ctf competitions under RubiyaLab.
   - 🔗 link: https://rubiyalab.team/
