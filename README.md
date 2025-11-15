@@ -384,6 +384,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 | Competition | Date | Rank | Category |
 |:----|:------|:------|:----------|
+| **AutoHack 2025** | Oct 2025 | Eliminated | Sovled 1 Reversing challenge; 6 challenges solved |
 | **Cyber Conflict Exercise (CCE) 2025** | Aug 2025 | 45th (Top 10%) | Crypto; led team strategy and writeups |
 | **HACKSIUM BUSAN 2025** | Jun 2025 | 31st | Web, Crypto; finalist qualification |
 | **BYUCTF 2025** | May 2025 | 270 / 1074 | Rev, Crypto, Misc; 6 challenges solved |
