@@ -124,7 +124,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"AI-powered QR Phishing Detection and Secure QR Generation"**, Department of Cybersecurity, Dankook University, Dec. 2025 _(In Preparation)_ |
+| [1] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"AI-powered QR Phishing Detection and Secure QR Generation"**, Department of Cybersecurity, Dankook University, Dec. 2025 _(Under Review)_ |
 
 ---
 
@@ -134,6 +134,11 @@ I aim to develop technologies that improve security and people’s lives, while 
 |:--:|:--|
 | [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Yoonho Choi, **"A Malware Detection Method Combining Clustering and Supervised Learning Models"**, Korean Patent Application No. 10-2025-0098855 _(Filed)_ |
 
+### In Preparation
+
+| No. | Title & Details |
+|:--:|:--|
+| [1] | **Kyoungmin Roh**, Subin Jeon, Nahee Kwon, and Bokyeom Kim, **"Design of an Ephemeral PQC Architecture with Isolated Secret Operations for IoT and Mobile Devices"**, for Cyber Security Contest, Department of Cybersecurity, Dankook University, Dec. 2025.  |
 
 ---
 
