@@ -134,6 +134,8 @@ I aim to develop technologies that improve security and people’s lives, while 
 |:--:|:--|
 | [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Yoonho Choi, **"A Malware Detection Method Combining Clustering and Supervised Learning Models"**, Korean Patent Application No. 10-2025-0098855 _(Filed)_ |
 
+---
+
 ### In Preparation
 
 | No. | Title & Details |
