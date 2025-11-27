@@ -140,7 +140,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Subin Jeon, Nahee Kwon, and Bokyeom Kim, **"Design of an Ephemeral PQC Architecture with Isolated Secret Operations for IoT and Mobile Devices"**, for Cyber Security Contest, Department of Cybersecurity, Dankook University, Dec. 2025.  |
+| [1] | **Kyoungmin Roh**, Subin Jeon, Nahee Kwon, and Bokyeom Kim, **"A Lightweigh Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone-A"**, for Cyber Security Contest, Department of Cybersecurity, Dankook University, Dec. 2025.  |
 
 ---
 
