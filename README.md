@@ -113,7 +113,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 _(Top Conference, Accepted)_ |
+| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 _(Accepted)_ |
 | [2] | **Kyoungmin Roh**, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 _(Accepted)_ |
 | [3] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seongje Cho, **"Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 — 🏆 *Best Paper Award* |
 | [4] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, and Seongje Cho, **"Classifying File Fragment Types for IVI System Forensics"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 |
