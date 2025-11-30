@@ -136,11 +136,11 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 ---
 
-### In Preparation
+### Paper Contest
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Subin Jeon, Nahee Kwon, and Bokyeom Kim, **"A Lightweigh Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone-A"**, for Cyber Security Contest, Department of Cybersecurity, Dankook University, Dec. 2025.  |
+| [1] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim and Subin Jeon, **"A Lightweigh Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025.  |
 
 ---
 
