@@ -136,7 +136,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 ---
 
-### Paper Contest
+### 🧷 Paper Contest
 
 | No. | Title & Details |
 |:--:|:--|
