@@ -105,7 +105,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 | No. | Title & Details |
 |:--:|:--|
 | [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift"**, *Computer Modeling in Engineering & Sciences (CMES)*, 2025 [Q1, IF: 2.5] _(Major Revision)_ |
-| [2] | **Kyoungmin Roh**, and Seongje Cho, **"Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities"**, *KISSE Transactions on Computing Practices (KTCP)*, 2025 _(Invited, Minor Revision)_ |
+| [2] | **Kyoungmin Roh**, and Seongje Cho, **"Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities"**, *KISSE Transactions on Computing Practices (KTCP)*, 2025 _(Invited, Accepted)_ |
 
 ---
 
