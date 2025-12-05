@@ -387,9 +387,21 @@ I aim to develop technologies that enhance security and people’s lives while m
     <td>
       <b>Audience Choice Award — Capstone Festival</b>
       <ul>
-        <li>QRUST: Secure QR & AI-Based Phishing Detection System</li>
+        <li>Qrust: Secure QR & AI-Based Phishing Detection System</li>
         <li>Developed HMAC-signed QR validation workflow and ML-based malicious URL detection</li>
         <li>Recognized for innovation, usability, and real-world applicability</li>
+      </ul>
+    </td>
+    <td>Dankook University, National Center of Excellence in Software</td>
+  </tr>
+
+  <tr>
+    <td>Oct 2025</td>
+    <td>
+      <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
+      <ul>
+        <li>Lead developer and planner for <em>Ddobak</em>, an LLM-based speech correction app</li>
+        <li>Recognized for innovative AI-driven assistive healthcare design</li>
       </ul>
     </td>
     <td>Dankook University, National Center of Excellence in Software</td>
@@ -406,18 +418,6 @@ I aim to develop technologies that enhance security and people’s lives while m
       </ul>
     </td>
     <td>Korean Institute of Information Scientists and Engineers (KIISE)</td>
-  </tr>
-
-  <tr>
-    <td>Oct 2025</td>
-    <td>
-      <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
-      <ul>
-        <li>Lead developer and planner for <em>Ddobak</em>, an LLM-based speech correction app</li>
-        <li>Recognized for innovative AI-driven assistive healthcare design</li>
-      </ul>
-    </td>
-    <td>Dankook University, National Center of Excellence in Software</td>
   </tr>
 
   <tr>
