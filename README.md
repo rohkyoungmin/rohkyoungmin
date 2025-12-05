@@ -361,24 +361,74 @@ I aim to develop technologies that enhance security and people’s lives while m
 
 ## 🏆 Awards & Scholarships
 
-- **WDSC 2025 Best Paper Award** — *Korean Institute of Information Scientists and Engineers (KIISE)*  
-  - Recognized for Android malware detection using API co-occurrence graphs and Louvain communities.  
-  - Selected among national submissions for robust detection under concept drift.  
-  - Award presented at *WDSC 2025, Jeju, Republic of Korea* (Aug 2025).  
+<table>
+  <tr>
+    <th style="width:20%">Year</th>
+    <th style="width:55%">Award</th>
+    <th style="width:25%">Organization</th>
+  </tr>
 
-- **Turing Cipher Idea Contest – 1st Place** — *Dankook University Department of Cybersecurity, sponsored by NIS (National Intelligence Service)*  
-  - Proposed a hybrid post-quantum signature scheme combining Lamport and Merkle trees.  
-  - Evaluated on originality, security soundness, and implementability (Sep 2023).  
+  <tr>
+    <td>2025</td>
+    <td>
+      <b>WDSC 2025 Best Paper Award</b>
+      <ul>
+        <li>Android malware detection using API co-occurrence graphs and Louvain communities</li>
+        <li>Selected among national submissions for robustness under concept drift</li>
+        <li>Awarded at <em>WDSC 2025, Jeju, Republic of Korea</em> (Aug 2025)</li>
+      </ul>
+    </td>
+    <td>Korean Institute of Information Scientists and Engineers (KIISE)</td>
+  </tr>
 
-- **2025 Dankook Startup Hackathon – Participation Prize (3rd Place)** — *Dankook University, National Center of Excellence in Software*  
-  - Led a 5-person team to design *Ddobak*, an LLM-based speech correction app for hearing-impaired users.  
-  - Recognized for creative application of AI to healthcare technology (Sep 2025).  
+  <tr>
+    <td>2025</td>
+    <td>
+      <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
+      <ul>
+        <li>Lead developer and planner for <em>Ddobak</em>, an LLM-based speech correction app</li>
+        <li>Recognized for innovative AI-driven assistive healthcare design</li>
+      </ul>
+    </td>
+    <td>Dankook University, National Center of Excellence in Software</td>
+  </tr>
 
-- **Specialized Project Scholarship** – *Dankook University, Department of Cybersecurity*  
-  - Awarded for research initiative in AI security and project management (Jun 2022). 
+  <tr>
+    <td>2023</td>
+    <td>
+      <b>1st Place — Turing Cipher Idea Contest</b>
+      <ul>
+        <li>Hybrid post-quantum signature scheme combining Lamport and Merkle trees</li>
+        <li>Judged on originality, cryptographic soundness, and feasibility</li>
+      </ul>
+    </td>
+    <td>Dankook University, Department of Cybersecurity</td>
+  </tr>
 
-- **Admission Scholarship** – *Dankook University*  
-  - Granted upon entrance for academic performance and leadership potential (Mar 2021).  
+  <tr>
+    <td>2022</td>
+    <td>
+      <b>Specialized Project Scholarship</b>
+      <ul>
+        <li>Awarded for research initiative in AI security</li>
+        <li>Recognized for high-quality project execution and contribution</li>
+      </ul>
+    </td>
+    <td>Dankook University, Department of Cybersecurity</td>
+  </tr>
+
+  <tr>
+    <td>2021</td>
+    <td>
+      <b>Admission Scholarship</b>
+      <ul>
+        <li>Granted for academic excellence and demonstrated leadership potential</li>
+      </ul>
+    </td>
+    <td>Dankook University</td>
+  </tr>
+</table>
+
 
 ---
 
@@ -421,22 +471,72 @@ I aim to develop technologies that enhance security and people’s lives while m
 
 ## 🎯 Extracurricular Activities
 
-- **LG Aimers AI Bootcamp & Hackathon** — *LG AI Research, Korea* (Jan – Feb 2023)  
-  - Completed ML training focused on defect classification in smart factory vision systems.  
-  - Ranked **Top 30%** among participants.  
-  - Led data preprocessing and final model presentation.  
+<div align="center">
+
+<table>
+  <tr>
+    <th style="width:20%">Year</th>
+    <th style="width:55%">Activity</th>
+    <th style="width:25%">Organizer</th>
+  </tr>
+
+  <tr>
+    <td>2023</td>
+    <td>
+      <b>LG Aimers AI Bootcamp & Hackathon</b>
+      <ul>
+        <li>Completed intensive training focused on classification in smart-factory systems.</li>
+        <li>Ranked <b>Top 30$</b> among participants.</li>
+        <li>Led model training, evaluation logic, and presentation.</li>
+      </ul>
+    </td>
+    <td>LG AI Research</td>
+  </tr>
+
+</table>
+ 
+</div>
 
 ---
 
-### 🤝 Volunteer Experiences
+## 🤝 Volunteer Experience
 
-- **Rural Volunteer Program** — *Korea Federation of Volunteer Centers* (Sep 2025)  
-  - Participated in an agricultural volunteering initiative in Buyeo County.  
-  - Assisted in greenhouse maintenance and crop management for 3 days (**21 total volunteer hours**).  
+<div align="center">
 
-- **Coding Education Volunteer** — *Aegis, Dankook University* (Aug 2022)  
-  - Conducted Python and C programming workshops for middle school students.  
-  - Designed exercises fostering creative problem-solving and algorithmic thinking.  
+<table>
+  <tr>
+    <th style="width:20%">Year</th>
+    <th style="width:55%">Activity</th>
+    <th style="width:25%">Hours</th>
+  </tr>
+
+  <tr>
+    <td>2024</td>
+    <td>
+      <b>Rural Volunteer Service — Buyeo Province</b>
+      <ul>
+        <li>Participated in a national agricultural volunteering initiative in Buyeo County.</li>
+        <li>Supported greenhouse maintenance and harvesting chestnuts.</li>
+      </ul>
+    </td>
+    <td>21 hours</td>
+  </tr>
+
+  <tr>
+    <td>2023–2024</td>
+    <td>
+      <b>Programming Education Assistant</b>
+      <ul>
+        <li>Taught Python and C fundamentals to middle school and early college students</li>
+        <li>Designed beginner-friendly exercises for logic, loops, and debugging</li>
+        <li>Supported students preparing for coding contests and CS entrance tracks</li>
+      </ul>
+    </td>
+    <td>—</td>
+  </tr>
+</table>
+ 
+</div>
 
 ---
 
