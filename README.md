@@ -114,7 +114,7 @@ I aim to develop technologies that enhance security and people’s lives while m
 | No. | Title & Details |
 |:--:|:--|
 | [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 _(Accepted)_ |
-| [2] | **Kyoungmin Roh**, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 _(Accepted)_ |
+| [2] | **Kyoungmin Roh**, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 _(Accepted)_ — 🏆 *Best Paper Award* |
 | [3] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seongje Cho, **"[Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 — 🏆 *[Best Paper Award](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/%EC%83%81%EC%9E%A5-%EC%B5%9C%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.pdf)* |
 | [4] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, and Seongje Cho, **"[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%9F%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 |
 
@@ -363,26 +363,53 @@ I aim to develop technologies that enhance security and people’s lives while m
 
 <table>
   <tr>
-    <th style="width:20%">Year</th>
+    <th style="width:30%">Date</th>
     <th style="width:55%">Award</th>
-    <th style="width:25%">Organization</th>
+    <th style="width:15%">Organization</th>
   </tr>
 
   <tr>
-    <td>2025</td>
+    <td>Dec 2025</td>
+    <td>
+      <b>KSC 2025 Best Paper Award</b>
+      <ul>
+        <li>“Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection”</li>
+        <li>Recognized for robustness and scalability under concept drift</li>
+        <li>Awarded at <em>Korea Software Congress (KSC 2025), Yeosu, Republic of Korea</em></li>
+      </ul>
+    </td>
+    <td>Korean Institute of Information Scientists and Engineers (KIISE)</td>
+  </tr>
+
+
+  <tr>
+    <td>Dec 2025</td>
+    <td>
+      <b>Audience Choice Award — Capstone Festival</b>
+      <ul>
+        <li>QRUST: Secure QR & AI-Based Phishing Detection System</li>
+        <li>Developed HMAC-signed QR validation workflow and ML-based malicious URL detection</li>
+        <li>Recognized for innovation, usability, and real-world applicability</li>
+      </ul>
+    </td>
+    <td>Dankook University, National Center of Excellence in Software</td>
+  </tr>
+
+  <tr>
+    <td>Aug 2025</td>
     <td>
       <b>WDSC 2025 Best Paper Award</b>
       <ul>
         <li>Android malware detection using API co-occurrence graphs and Louvain communities</li>
         <li>Selected among national submissions for robustness under concept drift</li>
-        <li>Awarded at <em>WDSC 2025, Jeju, Republic of Korea</em> (Aug 2025)</li>
+        <li>Awarded at <em>WDSC 2025, Jeju, Republic of Korea</em></li>
       </ul>
     </td>
     <td>Korean Institute of Information Scientists and Engineers (KIISE)</td>
   </tr>
 
   <tr>
-    <td>2025</td>
+    <td>Oct 2025</td>
     <td>
       <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
       <ul>
@@ -394,19 +421,19 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td>2023</td>
+    <td>Aug 2023</td>
     <td>
       <b>1st Place — Turing Cipher Idea Contest</b>
       <ul>
-        <li>Hybrid post-quantum signature scheme combining Lamport and Merkle trees</li>
-        <li>Judged on originality, cryptographic soundness, and feasibility</li>
+        <li>Hybrid post-quantum signature scheme combining Lamport signatures and Merkle trees</li>
+        <li>Evaluated on originality, cryptographic soundness, and feasibility</li>
       </ul>
     </td>
     <td>Dankook University, Department of Cybersecurity</td>
   </tr>
 
   <tr>
-    <td>2022</td>
+    <td>Sep 2022</td>
     <td>
       <b>Specialized Project Scholarship</b>
       <ul>
@@ -418,16 +445,17 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td>2021</td>
+    <td>Mar 2021</td>
     <td>
       <b>Admission Scholarship</b>
       <ul>
-        <li>Granted for academic excellence and demonstrated leadership potential</li>
+        <li>Awarded for academic excellence and demonstrated leadership potential</li>
       </ul>
     </td>
     <td>Dankook University</td>
   </tr>
 </table>
+
 
 
 ---
