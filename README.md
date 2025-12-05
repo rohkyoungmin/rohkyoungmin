@@ -4,9 +4,9 @@
 [![View CV](https://img.shields.io/badge/View_CV-on_GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohkyoungmin/CV/blob/main/Kyoungmin_Roh___CV.pdf)
 
 <h1 style="font-family:'Courier New', monospace;">Kyoungmin Roh</h1>
-<p><strong>Cybersecurity Researcher</strong> 
+<p><strong>Cybersecurity Researcher</strong></p>
 
-📍 Seongnam-si, Gyeonggi-do, Republic of Korea | 📞 +82-10-2506-3409 | ✉️ <a href="mailto:kyoungminroh01@gmail.com">kyoungminroh01@gmail.com</a></p>
+<p>📍 Seongnam-si, Gyeonggi-do, Republic of Korea | 📞 +82-10-2506-3409 | ✉️ <a href="mailto:kyoungminroh01@gmail.com">kyoungminroh01@gmail.com</a></p>
 
 [![Medium](https://img.shields.io/badge/MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kyoungminroh01)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kyoungmin-roh-88bb09343/)
@@ -18,7 +18,7 @@
 
 ## 🎯 Objective
 To pursue an academic career in cybersecurity as a professor, contributing to society through impactful research and education.  
-I aim to develop technologies that improve security and people’s lives, while fostering the next generation of scholars who will continue advancing the field beyond my own contributions.
+I aim to develop technologies that enhance security and people’s lives while mentoring the next generation of researchers who will advance the field beyond my own contributions.
 
 ---
 
@@ -52,7 +52,7 @@ I aim to develop technologies that improve security and people’s lives, while 
         <li><b>Supervisor:</b> Prof. Hyungsub Kim</li>
         <li><b>Period:</b> Oct 2025 – Present</li>
         <li><b>Location:</b> Bloomington, U.S.</li>
-        <li>Researching open-source CPS (Cyber-Physical System) software security.</li>
+        <li>Conducting research on the security of open-source Cyber-Physical System (CPS) software.</li>
         <li>🔗 <a href="https://kimhyungsub.github.io/">Lab Homepage</a></li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
@@ -75,15 +75,14 @@ I aim to develop technologies that improve security and people’s lives, while 
         <li><b>Position:</b> Research Intern</li>
         <li><b>Supervisor:</b> Prof. Seongje Cho</li>
         <li><b>Period:</b> Mar 2025 – Present</li>
-        <li><b>Location:</b> Yongin, South Korea</li>
-        <li>Developing Android malware detection AI models using static analysis and machine learning.</li>
+        <li><b>Location:</b> Yongin, Republic of Korea</li>
+        <li>Developing Android malware detection models using static analysis and machine learning.</li>
         <li>🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
     </td>
   </tr>
 </table>
-
 
 </div>
 
@@ -92,12 +91,13 @@ I aim to develop technologies that improve security and people’s lives, while 
 ## 🏫 Education
 **Dankook University**  
 *B.E. in Cybersecurity*
-- Peroid: Mar 2021 – Expected Jan 2027
-- location: _Yongin, Republic of Korea_
-- GPA: 3.0 / 4.5 (≈ 2.7 / 4.0 U.S. Scale)  
-- Currently Undergraduate (Junior)
+- Period: Mar 2021 – Expected Jan 2027  
+- Location: Yongin, Republic of Korea  
+- GPA: 3.0 / 4.5 (≈ 2.7 / 4.0 U.S. scale)  
+- Status: Undergraduate (Junior)
 
 ---
+
 ## 📚 Publications
 
 ### 🧾 Journals
@@ -116,7 +116,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 | [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 _(Accepted)_ |
 | [2] | **Kyoungmin Roh**, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 _(Accepted)_ |
 | [3] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seongje Cho, **"[Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 — 🏆 *[Best Paper Award](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/%EC%83%81%EC%9E%A5-%EC%B5%9C%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.pdf)* |
-| [4] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, and Seongje Cho, **"[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 |
+| [4] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, and Seongje Cho, **"[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%9F%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 |
 
 ---
 
@@ -140,8 +140,7 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim and Subin Jeon, **"[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20기반%20경량%20비밀%20분리형%20양자내성%20암호%20아키텍처.pdf)"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025. |
-
+| [1] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon, **"[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20기반%20경량%20비밀%20분리형%20양자내성%20암호%20아키텍처.pdf)"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025. |
 
 ---
 
@@ -162,9 +161,9 @@ I aim to develop technologies that improve security and people’s lives, while 
     <td><b>LV.0: LLM Vulnerability Zero</b><br><sub>LLM-powered Security Vulnerability Reporter</sub></td>
     <td>
       <ul>
-        <li>Developed an AI-based static analysis & reporting framework for open-source vulnerabilities.</li>
+        <li>Developed an AI-based static analysis and reporting framework for open-source vulnerabilities.</li>
         <li>Integrated GitHub workflow automation and NLP-based risk summarization.</li>
-        <li>Led backend and AI design using Flask + FastAPI.</li>
+        <li>Led backend and AI design using Flask and FastAPI.</li>
       </ul>
     </td>
     <td align="center">
@@ -186,7 +185,7 @@ I aim to develop technologies that improve security and people’s lives, while 
       <ul>
         <li>Designed a static analysis pipeline to extract API call sequences from DEX files.</li>
         <li>Implemented filtering and preprocessing for multi-instance learning (MIL).</li>
-        <li>Built with Electron and Python for cross-platform GUI.</li>
+        <li>Built with Electron and Python for a cross-platform GUI.</li>
       </ul>
     </td>
     <td align="center">
@@ -201,9 +200,9 @@ I aim to develop technologies that improve security and people’s lives, while 
     <td><b>Qrust: Secure QR & AI Phishing Detector</b></td>
     <td>
       <ul>
-        <li>Built Flutter app with Flask-based phishing URL classifier and HMAC-secured QR generation.</li>
-        <li>Integrated ML model for malicious URL detection.</li>
-        <li>Designed end-to-end mobile security workflow.</li>
+        <li>Built a Flutter app with a Flask-based phishing URL classifier and HMAC-secured QR generation.</li>
+        <li>Integrated an ML model for malicious URL detection.</li>
+        <li>Designed an end-to-end mobile security workflow.</li>
       </ul>
     </td>
     <td align="center">
@@ -223,8 +222,8 @@ I aim to develop technologies that improve security and people’s lives, while 
     <td><b>Digital Forensic Toolkit for Hyundai Avante (CN7)</b></td>
     <td>
       <ul>
-        <li>Developed forensic tool for Android-based IVI (infotainment) systems.</li>
-        <li>Implemented log parsing for event reconstruction and data extraction automation.</li>
+        <li>Developed a forensic tool for Android-based IVI (infotainment) systems.</li>
+        <li>Implemented log parsing for event reconstruction and automated data extraction.</li>
         <li>Designed for forensic researchers analyzing Hyundai vehicles.</li>
       </ul>
     </td>
@@ -240,9 +239,9 @@ I aim to develop technologies that improve security and people’s lives, while 
     <td><b>Post-Quantum Signature System</b><br><sub>Lamport + Merkle Tree</sub></td>
     <td>
       <ul>
-        <li>Implemented hybrid post-quantum signature combining Lamport one-time and Merkle trees.</li>
-        <li>Built prototype in Python for signing & verification demos.</li>
-        <li>🥇 <em>1st Place — Turing Cipher Idea Contest (NIS Sponsored)</em></li>
+        <li>Implemented a hybrid post-quantum signature scheme combining Lamport one-time signatures and Merkle trees.</li>
+        <li>Built a Python prototype for signing and verification demonstrations.</li>
+        <li>🥇 <em>1st Place — Turing Cipher Idea Contest (NIS-sponsored)</em></li>
       </ul>
     </td>
     <td align="center">
@@ -270,9 +269,9 @@ I aim to develop technologies that improve security and people’s lives, while 
     <td><b>“Ddobak” — LLM-based Speech & Hearing Therapy App</b></td>
     <td>
       <ul>
-        <li>LLM-powered pronunciation correction app supporting hearing-impaired users.</li>
-        <li>Led UI/UX design and ideation at <em>Dankook Startup Hackathon</em>.</li>
-        <li>Developed Flutter prototype integrated with AI feedback system.</li>
+        <li>Developed an LLM-powered pronunciation correction app supporting hearing-impaired users.</li>
+        <li>Led UI/UX design and ideation at the <em>Dankook Startup Hackathon</em>.</li>
+        <li>Built a Flutter prototype integrated with an AI feedback system.</li>
       </ul>
     </td>
     <td align="center">
@@ -295,8 +294,8 @@ I aim to develop technologies that improve security and people’s lives, while 
     <td><b>AIRO: LLM-based Parenting Assistant</b></td>
     <td>
       <ul>
-        <li>Mobile app integrating <em>Meta LLaMA 3</em> for childcare and emergency guidance.</li>
-        <li>Designed conversational AI for contextual parental advice.</li>
+        <li>Designed a mobile app integrating <em>Meta LLaMA 3</em> for childcare and emergency guidance.</li>
+        <li>Implemented conversational AI for contextual parental advice.</li>
         <li>Conducted UX optimization for mobile deployment.</li>
       </ul>
     </td>
@@ -312,9 +311,9 @@ I aim to develop technologies that improve security and people’s lives, while 
     <td><b>Smart Greenhouse AI</b></td>
     <td>
       <ul>
-        <li>Trained CNN-based classifier for pest detection in agriculture.</li>
+        <li>Trained a CNN-based classifier for pest detection in agriculture.</li>
         <li>Applied image augmentation and transfer learning for robustness.</li>
-        <li>Developed as IoT-ready ML pipeline using Colab.</li>
+        <li>Developed an IoT-ready ML pipeline using Google Colab.</li>
       </ul>
     </td>
     <td align="center">
@@ -329,8 +328,8 @@ I aim to develop technologies that improve security and people’s lives, while 
     <td><b>Selenium Web Crawler</b></td>
     <td>
       <ul>
-        <li>Built automation script for scraping product reviews to generate datasets for LLM research.</li>
-        <li>Used Selenium for DOM traversal and text cleaning.</li>
+        <li>Built an automation script for scraping product reviews to generate datasets for LLM research.</li>
+        <li>Used Selenium for DOM traversal and text extraction/cleaning.</li>
       </ul>
     </td>
     <td align="center">
@@ -346,41 +345,41 @@ I aim to develop technologies that improve security and people’s lives, while 
 ## 🏆 Awards & Scholarships
 
 - **WDSC 2025 Best Paper Award** — *Korean Institute of Information Scientists and Engineers (KIISE)*  
-  - Recognized for excellence in Android malware detection using API co-occurrence graphs and Louvain method.  
-  - Selected among national submissions for outstanding contribution to robust detection models under concept drift.  
+  - Recognized for Android malware detection using API co-occurrence graphs and Louvain communities.  
+  - Selected among national submissions for robust detection under concept drift.  
   - Award presented at *WDSC 2025, Jeju, Republic of Korea* (Aug 2025).  
 
 - **Turing Cipher Idea Contest – 1st Place** — *Dankook University Department of Cybersecurity, sponsored by NIS (National Intelligence Service)*  
-  - Proposed a hybrid post-quantum signature scheme combining Lamport and Merkle Tree.  
-  - Achieved first place across all entries for originality, security soundness, and implementability (Sep 2023).  
+  - Proposed a hybrid post-quantum signature scheme combining Lamport and Merkle trees.  
+  - Evaluated on originality, security soundness, and implementability (Sep 2023).  
 
 - **2025 Dankook Startup Hackathon – Participation Prize (3rd Place)** — *Dankook University, National Center of Excellence in Software*  
   - Led a 5-person team to design *Ddobak*, an LLM-based speech correction app for hearing-impaired users.  
-  - Recognized for creative application of AI in healthcare technology innovation (Sep 2025).  
+  - Recognized for creative application of AI to healthcare technology (Sep 2025).  
 
 - **Specialized Project Scholarship** – *Dankook University, Department of Cybersecurity*  
-  - Awarded for exceptional research initiative in AI security and project management excellence (Jun 2022). 
+  - Awarded for research initiative in AI security and project management (Jun 2022). 
 
-- **Admission Scholarship** – *Dankook University*
-  - Granted upon entrance for outstanding academic performance and leadership potential (Mar 2021).  
+- **Admission Scholarship** – *Dankook University*  
+  - Granted upon entrance for academic performance and leadership potential (Mar 2021).  
 
 ---
 
 ## 💥 Security-Related Experiences
 
 - **RubiyaLab CTF Team** (Jul 2025 – Nov 2025)  
-  - Member of South Korea’s #1 and Global Top 11 CTF team.  
-  - Specializes in crypto and reversing; participates in international ctf competitions under RubiyaLab.
-  - 🔗 link: https://rubiyalab.team/
+  - Member of South Korea’s #1 and globally top-ranked CTF team.  
+  - Focused on crypto and reversing; participated in international CTF competitions under RubiyaLab.  
+  - 🔗 Link: https://rubiyalab.team/
 
 - **OSINT TEAM Contributor** (Jul 2025 – Present)  
-  - Authored and published cybersecurity awareness articles for a global OSINT education platform.
-  - 🔗 link: https://www.osintteam.com/
+  - Authored and published cybersecurity awareness articles for a global OSINT education platform.  
+  - 🔗 Link: https://www.osintteam.com/
 
 - **Aegis Cybersecurity Club**, *Dankook University* (Mar 2021 – Present)  
-  - Actively participated in software development and CTF activities.  
-  - Contributed to creating awareness of secure coding and web exploitation prevention among peers.
-  - 🔗 link: https://www.instagram.com/dku_aegis/
+  - Participated in software development and CTF activities.  
+  - Helped promote secure coding and web exploitation prevention among peers.  
+  - 🔗 Link: https://www.instagram.com/dku_aegis/
 
 ---
 
@@ -390,13 +389,13 @@ I aim to develop technologies that improve security and people’s lives, while 
 
 <div align="center">
 
-| Competition | Date | Rank | Category |
-|:----|:------|:------|:----------|
-| **AutoHack 2025** | Oct 2025 | Eliminated | Sovled 1 Reversing challenge; 6 challenges solved |
+| Competition | Date | Rank | Notes |
+|:-----------|:-----|:-----|:------|
+| **AutoHack 2025** | Oct 2025 | Eliminated | Solved 1 reversing challenge; 6 challenges solved in total |
 | **Cyber Conflict Exercise (CCE) 2025** | Aug 2025 | 45th (Top 10%) | Crypto; led team strategy and writeups |
 | **HACKSIUM BUSAN 2025** | Jun 2025 | 31st | Web, Crypto; finalist qualification |
 | **BYUCTF 2025** | May 2025 | 270 / 1074 | Rev, Crypto, Misc; 6 challenges solved |
-| **HackTheOn Sejong 2025** | Apr 2025 | 42 / 401 | Reversing, Forensics; detailed post-analysis on Medium |
+| **HackTheOn Sejong 2025** | Apr 2025 | 42 / 401 | Reversing, Forensics; post-analysis on Medium |
 | **squ1rrer CTF 2025** | Apr 2025 | 75 / 528 | Web, Misc; team collaboration and optimization |
 
 </div>
@@ -406,16 +405,16 @@ I aim to develop technologies that improve security and people’s lives, while 
 ## 🎯 Extracurricular Activities
 
 - **LG Aimers AI Bootcamp & Hackathon** — *LG AI Research, Korea* (Jan – Feb 2023)  
-  - Completed intensive ML training focused on defect classification in smart factory vision systems.  
-  - Ranked **Top 30%** out of all participants.  
-  - Led data preprocessing and final model presentation phase.  
+  - Completed ML training focused on defect classification in smart factory vision systems.  
+  - Ranked **Top 30%** among participants.  
+  - Led data preprocessing and final model presentation.  
 
 ---
 
 ### 🤝 Volunteer Experiences
 
 - **Rural Volunteer Program** — *Korea Federation of Volunteer Centers* (Sep 2025)  
-  - Participated in a national agricultural volunteering initiative in Buyeo County.  
+  - Participated in an agricultural volunteering initiative in Buyeo County.  
   - Assisted in greenhouse maintenance and crop management for 3 days (**21 total volunteer hours**).  
 
 - **Coding Education Volunteer** — *Aegis, Dankook University* (Aug 2022)  
@@ -428,17 +427,17 @@ I aim to develop technologies that improve security and people’s lives, while 
 **KATUSA (Korean Augmentation to the U.S. Army)** (Aug 2023 – Feb 2025)  
 U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.  
 - Served as interpreter and liaison during joint U.S.–ROK operations.  
-- Awarded *Army Commendation Medal (ARCOM)* by U.S. Brigadier General.  
-- Won *Best Warrior Squad* and *Best KATUSA* awards for exceptional duty performance.  
+- Awarded the *Army Commendation Medal (ARCOM)* by a U.S. Brigadier General.  
+- Won *Best Warrior Squad* and *Best KATUSA* awards for duty performance.  
 
 ---
 
 ## 🌐 Languages
 - **Korean** — Native  
 - **English** — Professional (academic writing, fluent speaking/listening)  
-- **Japanese** — Conversational listening proficiency (limited speaking)
-- **Chinese** — Basic Reading/Writing communitcation; limited listening  
-- **Arabic** — Basic Alphabet, words
+- **Japanese** — Conversational listening; limited speaking  
+- **Chinese** — Basic reading/writing; limited listening  
+- **Arabic** — Basic alphabet and vocabulary  
 
 ---
 
@@ -447,7 +446,7 @@ U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.
 <div align="center">
 
 | Category | Skills |
-|:----------|:--------|
+|:--------|:--------|
 | **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/> |
 | **Security** | <img src="https://img.shields.io/badge/Android%20Malware%20Analysis-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Digital%20Forensics-0078D7?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Cryptography-6E5494?style=flat-square&logo=openssl&logoColor=white"/> <img src="https://img.shields.io/badge/Web/Mobile%20Hacking-000000?style=flat-square&logo=burpsuite&logoColor=orange"/> |
 | **AI/ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/LLM%20Fine--tuning-8E44AD?style=flat-square&logo=openai&logoColor=white"/> |
@@ -458,14 +457,13 @@ U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.
 
 </div>
 
-
 ---
 
 ## 🧭 Soft Skills
 - **Communication:** Bilingual technical communicator; strong in English academic writing and public speaking.  
-- **Leadership:** Proven experience leading research and hackathon teams to successful outcomes.  
-- **Creativity:** Combines analytical rigor with a background in fine arts for innovative technical design.  
-- **Adaptability:** Rapidly learns new concepts and maintains resilience under changing research contexts.  
+- **Leadership:** Experience leading research and hackathon teams to measurable outcomes.  
+- **Creativity:** Combines analytical rigor with a background in fine arts for technical design and visualization.  
+- **Adaptability:** Learns new concepts quickly and maintains resilience under changing research contexts.  
 - **Innovation:** Experienced in rapid prototyping, hypothesis validation, and evaluation-driven iteration.  
 
 ---
