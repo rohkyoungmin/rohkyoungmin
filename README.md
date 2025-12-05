@@ -158,12 +158,29 @@ I aim to develop technologies that enhance security and people’s lives while m
 
   <tr>
     <td align="center">[1]</td>
+    <td><b>Split-Kyber for ARM TrustZone-A</b><br><sub>Secret-Isolated PQC Architecture</sub></td>
+    <td>
+      <ul>
+        <li>Implemented a split execution framework for CRYSTALS-Kyber (ML-KEM) on ARM TrustZone-A.</li>
+        <li>Secret-dependent operations run exclusively in Secure World (TEE), ensuring strict key isolation.</li>
+        <li>Aims to minimize the Trusted Computing Base (TCB) while maintaining correctness and performance.</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Cyber-Security-Contest/Kyber-Split">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="90"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">[2]</td>
     <td><b>LV.0: LLM Vulnerability Zero</b><br><sub>LLM-powered Security Vulnerability Reporter</sub></td>
     <td>
       <ul>
-        <li>Developed an AI-based static analysis and reporting framework for open-source vulnerabilities.</li>
+        <li>Developed an AI-based static analysis and automated reporting framework for open-source vulnerabilities.</li>
         <li>Integrated GitHub workflow automation and NLP-based risk summarization.</li>
-        <li>Led backend and AI design using Flask and FastAPI.</li>
+        <li>Led backend and AI system design using Flask and FastAPI.</li>
       </ul>
     </td>
     <td align="center">
@@ -179,13 +196,13 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td align="center">[2]</td>
+    <td align="center">[3]</td>
     <td><b>ASX: Android API Sequence Extractor</b></td>
     <td>
       <ul>
-        <li>Designed a static analysis pipeline to extract API call sequences from DEX files.</li>
-        <li>Implemented filtering and preprocessing for multi-instance learning (MIL).</li>
-        <li>Built with Electron and Python for a cross-platform GUI.</li>
+        <li>Designed a static analysis pipeline to extract API-level call sequences from DEX files.</li>
+        <li>Built preprocessing logic for multi-instance learning (MIL) workflows.</li>
+        <li>Developed as a cross-platform Electron-based GUI tool.</li>
       </ul>
     </td>
     <td align="center">
@@ -196,13 +213,13 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td align="center">[3]</td>
+    <td align="center">[4]</td>
     <td><b>Qrust: Secure QR & AI Phishing Detector</b></td>
     <td>
       <ul>
-        <li>Built a Flutter app with a Flask-based phishing URL classifier and HMAC-secured QR generation.</li>
-        <li>Integrated an ML model for malicious URL detection.</li>
-        <li>Designed an end-to-end mobile security workflow.</li>
+        <li>Developed a secure QR generator and mobile phishing detection system using ML classifiers.</li>
+        <li>Implemented HMAC-signed QR content and Flask-based malicious URL detection API.</li>
+        <li>End-to-end security workflow: scanning → validation → risk scoring.</li>
       </ul>
     </td>
     <td align="center">
@@ -218,13 +235,13 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td align="center">[4]</td>
+    <td align="center">[5]</td>
     <td><b>Digital Forensic Toolkit for Hyundai Avante (CN7)</b></td>
     <td>
       <ul>
-        <li>Developed a forensic tool for Android-based IVI (infotainment) systems.</li>
-        <li>Implemented log parsing for event reconstruction and automated data extraction.</li>
-        <li>Designed for forensic researchers analyzing Hyundai vehicles.</li>
+        <li>Developed a forensic extraction and log-based event reconstruction system for Android-based IVI systems.</li>
+        <li>Automated vehicle log parsing and visualization for forensic workflows.</li>
+        <li>Designed for researchers analyzing Hyundai vehicle platforms.</li>
       </ul>
     </td>
     <td align="center">
@@ -235,12 +252,12 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td align="center">[5]</td>
+    <td align="center">[6]</td>
     <td><b>Post-Quantum Signature System</b><br><sub>Lamport + Merkle Tree</sub></td>
     <td>
       <ul>
-        <li>Implemented a hybrid post-quantum signature scheme combining Lamport one-time signatures and Merkle trees.</li>
-        <li>Built a Python prototype for signing and verification demonstrations.</li>
+        <li>Implemented a hybrid post-quantum signature system combining Lamport OTS and Merkle tree aggregation.</li>
+        <li>Python-based prototype demonstrating signing, verification, and one-time key management.</li>
         <li>🥇 <em>1st Place — Turing Cipher Idea Contest (NIS-sponsored)</em></li>
       </ul>
     </td>
