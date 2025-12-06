@@ -124,7 +124,7 @@ I aim to develop technologies that enhance security and people’s lives while m
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"[AI-powered QR Phishing Detection and Secure QR Generation](https://github.com/rohkyoungmin/Research-Papers/blob/main/Thesis/Bachelor's%20Degree%20Thesis/%5B%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC%5D%20Spring_Qrust_AI-powered%20Phishing%20Detection%20and%20Secure%20QR%20Generation.pdf)"**, Department of Cybersecurity, Dankook University, Dec. 2025 — 🏆 *Audience Choice Award* |
+| [1] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"[Qrust: AI-powered QR Phishing Detection and Secure QR Generation](https://github.com/rohkyoungmin/Research-Papers/blob/main/Thesis/Bachelor's%20Degree%20Thesis/%5B%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC%5D%20Spring_Qrust_AI-powered%20Phishing%20Detection%20and%20Secure%20QR%20Generation.pdf)"**, Department of Cybersecurity, Dankook University, Dec. 2025 — 🏆 *Audience Choice Award* |
 
 ---
 
