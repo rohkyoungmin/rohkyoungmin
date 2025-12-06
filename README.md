@@ -514,7 +514,7 @@ I aim to develop technologies that enhance security and people’s lives while m
       <b>LG Aimers AI Bootcamp & Hackathon</b>
       <ul>
         <li>Completed intensive training focused on classification in smart-factory systems.</li>
-        <li>Ranked <b>Top 30$</b> among participants.</li>
+        <li>Ranked <b>Top 30%</b> among participants.</li>
         <li>Led model training, evaluation logic, and presentation.</li>
       </ul>
     </td>
