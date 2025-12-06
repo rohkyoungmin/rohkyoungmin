@@ -396,7 +396,7 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td>Oct 2025</td>
+    <td>Sep 2025</td>
     <td>
       <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
       <ul>
@@ -421,7 +421,7 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td>Aug 2023</td>
+    <td>Sep 2023</td>
     <td>
       <b>1st Place — Turing Cipher Idea Contest</b>
       <ul>
@@ -433,7 +433,7 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td>Sep 2022</td>
+    <td>Jun 2022</td>
     <td>
       <b>Specialized Project Scholarship</b>
       <ul>
