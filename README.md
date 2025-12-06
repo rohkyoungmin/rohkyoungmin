@@ -421,6 +421,30 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
+    <td>Dec 2024</td>
+    <td>
+      <b>The Army Commendation Medal (ARCOM)</b>
+      <ul>
+        <li>For commendable service while serving as an equipment records and parts clerk KATUSA.</li>
+        <li>Supported to the overall success of the unit's mission</li>
+      </ul>
+    </td>
+    <td>United States of America, Department of the Army</td>
+  </tr>
+
+  <tr>
+    <td>Oct 2024</td>
+    <td>
+      <b>Best KATUSA Award</b>
+      <ul>
+        <li>Achieved an outstanding marksmanship performance</li>
+        <li>Set an example for fellow KATUSA soldiers</li>
+      </ul>
+    </td>
+    <td>Eighth United States Army Republic of Korea Army Support Group</td>
+  </tr>
+  
+  <tr>
     <td>Sep 2023</td>
     <td>
       <b>1st Place — Turing Cipher Idea Contest</b>
