@@ -144,6 +144,144 @@ I aim to develop technologies that enhance security and people’s lives while m
 
 ---
 
+## 🏆 Awards & Scholarships
+
+<table>
+  <tr>
+    <th style="width:30%">Date</th>
+    <th style="width:55%">Award</th>
+    <th style="width:15%">Organization</th>
+  </tr>
+
+  <tr>
+    <td>Dec 2025</td>
+    <td>
+      <b>Academic Research Scholarship</b>
+      <ul>
+        <li>Published a paper at a leading domestic academic conference as an undergraduate student</li>
+        <li>Awarded based on demonstrated research potential and academic excellence</li>
+      </ul>
+    </td>
+    <td>Dankook University, National Center of Excellence in Software</td>
+  </tr>
+
+  <tr>
+    <td>Dec 2025</td>
+    <td>
+      <b>KSC 2025 Best Paper Award</b>
+      <ul>
+        <li>“Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection”</li>
+        <li>Recognized for robustness and scalability under concept drift</li>
+        <li>Awarded at <em>Korea Software Congress (KSC 2025), Yeosu, Republic of Korea</em></li>
+      </ul>
+    </td>
+    <td>Korean Institute of Information Scientists and Engineers (KIISE)</td>
+  </tr>
+
+
+  <tr>
+    <td>Dec 2025</td>
+    <td>
+      <b>Audience Choice Award — Capstone Festival</b>
+      <ul>
+        <li>Qrust: Secure QR & AI-Based Phishing Detection System</li>
+        <li>Developed HMAC-signed QR validation workflow and ML-based malicious URL detection</li>
+        <li>Recognized for innovation, usability, and real-world applicability</li>
+      </ul>
+    </td>
+    <td>Dankook University, National Center of Excellence in Software</td>
+  </tr>
+
+  <tr>
+    <td>Sep 2025</td>
+    <td>
+      <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
+      <ul>
+        <li>Lead developer and planner for <em>Ddobak</em>, an LLM-based speech correction app</li>
+        <li>Recognized for innovative AI-driven assistive healthcare design</li>
+      </ul>
+    </td>
+    <td>Dankook University, National Center of Excellence in Software</td>
+  </tr>
+
+  <tr>
+    <td>Aug 2025</td>
+    <td>
+      <b>WDSC 2025 Best Paper Award</b>
+      <ul>
+        <li>Android malware detection using API co-occurrence graphs and Louvain communities</li>
+        <li>Selected among national submissions for robustness under concept drift</li>
+        <li>Awarded at <em>WDSC 2025, Jeju, Republic of Korea</em></li>
+      </ul>
+    </td>
+    <td>Korean Institute of Information Scientists and Engineers (KIISE)</td>
+  </tr>
+
+  <tr>
+    <td>Dec 2024</td>
+    <td>
+      <b>The Army Commendation Medal (ARCOM)</b>
+      <ul>
+        <li>For commendable service while serving as an equipment records and parts clerk KATUSA.</li>
+        <li>Supported to the overall success of the unit's mission</li>
+      </ul>
+    </td>
+    <td>United States of America, Department of the Army</td>
+  </tr>
+
+  <tr>
+    <td>Oct 2024</td>
+    <td>
+      <b>Best KATUSA Award</b>
+      <ul>
+        <li>Achieved an outstanding marksmanship performance</li>
+        <li>Set an example for fellow KATUSA soldiers</li>
+      </ul>
+    </td>
+    <td>Eighth United States Army Republic of Korea Army Support Group</td>
+  </tr>
+  
+  <tr>
+    <td>Sep 2023</td>
+    <td>
+      <b>1st Place — Turing Cipher Idea Contest</b>
+      <ul>
+        <li>Hybrid post-quantum signature scheme combining Lamport signatures and Merkle trees</li>
+        <li>Evaluated on originality, cryptographic soundness, and feasibility</li>
+      </ul>
+    </td>
+    <td>Dankook University, Department of Cybersecurity</td>
+  </tr>
+
+  <tr>
+    <td>Jun 2022</td>
+    <td>
+      <b>Specialized Project Scholarship</b>
+      <ul>
+        <li>Awarded for research initiative in AI security</li>
+        <li>Recognized for high-quality project execution and contribution</li>
+      </ul>
+    </td>
+    <td>Dankook University, Department of Cybersecurity</td>
+  </tr>
+
+  <tr>
+    <td>Mar 2021</td>
+    <td>
+      <b>Admission Scholarship</b>
+      <ul>
+        <li>Awarded for academic excellence and demonstrated leadership potential</li>
+      </ul>
+    </td>
+    <td>Dankook University</td>
+  </tr>
+</table>
+
+
+
+---
+
+
 ## Projects
 
 ### 🔐 Security Projects
@@ -356,143 +494,6 @@ I aim to develop technologies that enhance security and people’s lives while m
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 Awards & Scholarships
-
-<table>
-  <tr>
-    <th style="width:30%">Date</th>
-    <th style="width:55%">Award</th>
-    <th style="width:15%">Organization</th>
-  </tr>
-
-  <tr>
-    <td>Dec 2025</td>
-    <td>
-      <b>Academic Research Scholarship</b>
-      <ul>
-        <li>Published a paper at a leading domestic academic conference as an undergraduate student</li>
-        <li>Awarded based on demonstrated research potential and academic excellence</li>
-      </ul>
-    </td>
-    <td>Dankook University, National Center of Excellence in Software</td>
-  </tr>
-
-  <tr>
-    <td>Dec 2025</td>
-    <td>
-      <b>KSC 2025 Best Paper Award</b>
-      <ul>
-        <li>“Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection”</li>
-        <li>Recognized for robustness and scalability under concept drift</li>
-        <li>Awarded at <em>Korea Software Congress (KSC 2025), Yeosu, Republic of Korea</em></li>
-      </ul>
-    </td>
-    <td>Korean Institute of Information Scientists and Engineers (KIISE)</td>
-  </tr>
-
-
-  <tr>
-    <td>Dec 2025</td>
-    <td>
-      <b>Audience Choice Award — Capstone Festival</b>
-      <ul>
-        <li>Qrust: Secure QR & AI-Based Phishing Detection System</li>
-        <li>Developed HMAC-signed QR validation workflow and ML-based malicious URL detection</li>
-        <li>Recognized for innovation, usability, and real-world applicability</li>
-      </ul>
-    </td>
-    <td>Dankook University, National Center of Excellence in Software</td>
-  </tr>
-
-  <tr>
-    <td>Sep 2025</td>
-    <td>
-      <b>Participation Prize (3rd Place) — Dankook Startup Hackathon</b>
-      <ul>
-        <li>Lead developer and planner for <em>Ddobak</em>, an LLM-based speech correction app</li>
-        <li>Recognized for innovative AI-driven assistive healthcare design</li>
-      </ul>
-    </td>
-    <td>Dankook University, National Center of Excellence in Software</td>
-  </tr>
-
-  <tr>
-    <td>Aug 2025</td>
-    <td>
-      <b>WDSC 2025 Best Paper Award</b>
-      <ul>
-        <li>Android malware detection using API co-occurrence graphs and Louvain communities</li>
-        <li>Selected among national submissions for robustness under concept drift</li>
-        <li>Awarded at <em>WDSC 2025, Jeju, Republic of Korea</em></li>
-      </ul>
-    </td>
-    <td>Korean Institute of Information Scientists and Engineers (KIISE)</td>
-  </tr>
-
-  <tr>
-    <td>Dec 2024</td>
-    <td>
-      <b>The Army Commendation Medal (ARCOM)</b>
-      <ul>
-        <li>For commendable service while serving as an equipment records and parts clerk KATUSA.</li>
-        <li>Supported to the overall success of the unit's mission</li>
-      </ul>
-    </td>
-    <td>United States of America, Department of the Army</td>
-  </tr>
-
-  <tr>
-    <td>Oct 2024</td>
-    <td>
-      <b>Best KATUSA Award</b>
-      <ul>
-        <li>Achieved an outstanding marksmanship performance</li>
-        <li>Set an example for fellow KATUSA soldiers</li>
-      </ul>
-    </td>
-    <td>Eighth United States Army Republic of Korea Army Support Group</td>
-  </tr>
-  
-  <tr>
-    <td>Sep 2023</td>
-    <td>
-      <b>1st Place — Turing Cipher Idea Contest</b>
-      <ul>
-        <li>Hybrid post-quantum signature scheme combining Lamport signatures and Merkle trees</li>
-        <li>Evaluated on originality, cryptographic soundness, and feasibility</li>
-      </ul>
-    </td>
-    <td>Dankook University, Department of Cybersecurity</td>
-  </tr>
-
-  <tr>
-    <td>Jun 2022</td>
-    <td>
-      <b>Specialized Project Scholarship</b>
-      <ul>
-        <li>Awarded for research initiative in AI security</li>
-        <li>Recognized for high-quality project execution and contribution</li>
-      </ul>
-    </td>
-    <td>Dankook University, Department of Cybersecurity</td>
-  </tr>
-
-  <tr>
-    <td>Mar 2021</td>
-    <td>
-      <b>Admission Scholarship</b>
-      <ul>
-        <li>Awarded for academic excellence and demonstrated leadership potential</li>
-      </ul>
-    </td>
-    <td>Dankook University</td>
-  </tr>
-</table>
-
-
 
 ---
 
