@@ -371,6 +371,18 @@ I aim to develop technologies that enhance security and people’s lives while m
   <tr>
     <td>Dec 2025</td>
     <td>
+      <b>Academic Research Scholarship</b>
+      <ul>
+        <li>Published a paper at a leading domestic academic conference as an undergraduate student</li>
+        <li>Awarded based on demonstrated research potential and academic excellence</li>
+      </ul>
+    </td>
+    <td>Dankook University, National Center of Excellence in Software</td>
+  </tr>
+
+  <tr>
+    <td>Dec 2025</td>
+    <td>
       <b>KSC 2025 Best Paper Award</b>
       <ul>
         <li>“Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection”</li>
