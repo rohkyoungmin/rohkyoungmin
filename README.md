@@ -433,7 +433,7 @@ I aim to develop technologies that enhance security and people’s lives while m
 
   <tr>
     <td align="center">[1]</td>
-    <td><b>AI-powered document summarization website</b></td>
+    <td><b>AI-powered Document Summarization Web Application</b></td>
     <td>
       <ul>
         <li>Developed a FastAPI-based backend API for user authentication and project management.</li>
