@@ -170,7 +170,7 @@ I aim to develop technologies that enhance security and people’s lives while m
     <td>
       <b>Cyber Security Contest 1st Place Award</b>
       <ul>
-        <li>"A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrsutZone</li>
+        <li>"A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrsutZone"</li>
         <li>Isolated Secret-based computation in PQC Kyber</li>
       </ul>
     </td>
@@ -455,7 +455,7 @@ I aim to develop technologies that enhance security and people’s lives while m
     <td>
       <ul>
         <li>Developed an LLM-powered pronunciation correction app supporting hearing-impaired users.</li>
-        <li>Led UI/UX design and ideation at the <em>Dankook Startup Hackathon</em>.</li>
+        <li>Led UI/UX design and ideation.</li>
         <li>Built a Flutter prototype integrated with an AI feedback system.</li>
         <li>🥉 <em>3rd Place — Dankook Startup Hackathon</em></li>
       </ul>
