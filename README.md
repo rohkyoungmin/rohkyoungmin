@@ -433,6 +433,23 @@ I aim to develop technologies that enhance security and people’s lives while m
 
   <tr>
     <td align="center">[1]</td>
+    <td><b>AI-powered document summarization website</b></td>
+    <td>
+      <ul>
+        <li>Developed a FastAPI-based backend API for user authentication and project management.</li>
+        <li>Implemented PDF/TXT upload and AI summarization via Claude API integration.</li>
+        <li>Provided Swagger UI / ReDoc documentation, SQLite persistence, and Docker-based deployment.</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://github.com/orgs/DKU-OSS-development/repositories">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="90"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">[2]</td>
     <td><b>“Ddobak” — LLM-based Speech & Hearing Therapy App</b></td>
     <td>
       <ul>
@@ -457,7 +474,7 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td align="center">[2]</td>
+    <td align="center">[3]</td>
     <td><b>AIRO: LLM-based Parenting Assistant</b></td>
     <td>
       <ul>
@@ -474,7 +491,7 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td align="center">[3]</td>
+    <td align="center">[4]</td>
     <td><b>Smart Greenhouse AI</b></td>
     <td>
       <ul>
@@ -491,7 +508,7 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td align="center">[4]</td>
+    <td align="center">[5]</td>
     <td><b>Selenium Web Crawler</b></td>
     <td>
       <ul>
