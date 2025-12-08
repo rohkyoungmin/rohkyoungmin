@@ -314,6 +314,7 @@ I aim to develop technologies that enhance security and people’s lives while m
         <li>Implemented a split execution framework for CRYSTALS-Kyber (ML-KEM) on ARM TrustZone-A.</li>
         <li>Secret-dependent operations run exclusively in Secure World (TEE), ensuring strict key isolation.</li>
         <li>Aims to minimize the Trusted Computing Base (TCB) while maintaining correctness and performance.</li>
+        <li>🥇 <em>1st Place — Cyber Security Contest (Research Paper Track)</em></li>
       </ul>
     </td>
     <td align="center">
@@ -456,6 +457,7 @@ I aim to develop technologies that enhance security and people’s lives while m
         <li>Developed an LLM-powered pronunciation correction app supporting hearing-impaired users.</li>
         <li>Led UI/UX design and ideation at the <em>Dankook Startup Hackathon</em>.</li>
         <li>Built a Flutter prototype integrated with an AI feedback system.</li>
+        <li>🥉 <em>3rd Place — Dankook Startup Hackathon</em></li>
       </ul>
     </td>
     <td align="center">
