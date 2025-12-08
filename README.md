@@ -576,7 +576,7 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td>2024</td>
+    <td>2025</td>
     <td>
       <b>Rural Volunteer Service — Buyeo Province</b>
       <ul>
@@ -588,7 +588,7 @@ I aim to develop technologies that enhance security and people’s lives while m
   </tr>
 
   <tr>
-    <td>2023–2024</td>
+    <td>2022</td>
     <td>
       <b>Programming Education Assistant</b>
       <ul>
