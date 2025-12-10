@@ -156,6 +156,18 @@ I aim to develop technologies that enhance security and people’s lives while m
   <tr>
     <td>Dec 2025</td>
     <td>
+      <b>Specialized Project Scholarship</b>
+      <ul>
+        <li>Awarded based on a strong track record of academic awards and high-quality project execution</li>
+        <li>Recognized for consistent excellence in AI security–oriented research projects</li>
+      </ul>
+    </td>
+    <td>Dankook University, Department of Cybersecurity</td>
+  </tr>
+
+  <tr>
+    <td>Dec 2025</td>
+    <td>
       <b>Academic Research Scholarship</b>
       <ul>
         <li>Published a paper at a leading domestic academic conference as an undergraduate student</li>
