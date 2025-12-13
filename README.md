@@ -4,7 +4,7 @@
 [![View CV](https://img.shields.io/badge/View_CV-on_GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohkyoungmin/CV/blob/main/Kyoungmin_Roh___CV.pdf)
 
 <h1 style="font-family:'Courier New', monospace;">Kyoungmin Roh</h1>
-<p><strong>Cybersecurity Researcher</strong></p>
+<p><strong>Cybersecurity, AI Researcher</strong></p>
 
 <p>📍 Seongnam-si, Gyeonggi-do, Republic of Korea | 📞 +82-10-2506-3409 | ✉️ <a href="mailto:kyoungminroh01@gmail.com">kyoungminroh01@gmail.com</a></p>
 
