@@ -17,16 +17,12 @@
 ---
 
 ## 🎯 Objective
-To pursue an academic career in cybersecurity as a professor, contributing to society through impactful research and education.  
-I aim to develop technologies that enhance security and people’s lives while mentoring the next generation of researchers who will advance the field beyond my own contributions.
+To pursue an academic career in cybersecurity as a professor, contributing to society through impactful research and education. I aim to develop technologies that enhance security and people’s lives while mentoring the next generation of researchers who will advance the field beyond my own contributions.
 
 ---
 
 ## 🔬 Research Interests
-- Android Malware Analysis  
-- Artificial Intelligence for Cybersecurity  
-- Cyber-Physical System (CPS) Security  
-- Post-Quantum & Quantum Cryptography  
+I am interested in the security of complex systems that must operate reliably under evolving threats and broken assumptions. My current research focuses on CPS and system security, with a particular emphasis on learning-based intrusion detection (IDS) under concept drift and the secure deployment of post-quantum cryptography (PQC) in CPS and embedded systems. My research goal is to establish principled foundations for designing secure systems that remain trustworthy over time, across various environments, and during the post-quantum transition.
 
 ---
 
@@ -52,7 +48,10 @@ I aim to develop technologies that enhance security and people’s lives while m
         <li><b>Supervisor:</b> Prof. Hyungsub Kim</li>
         <li><b>Period:</b> Oct 2025 – Present</li>
         <li><b>Location:</b> Bloomington, U.S.</li>
-        <li>Conducting research on the security of open-source Cyber-Physical System (CPS) software.</li>
+        <li>Analyzing security risks and failure modes in open-source Cyber-Physical System (CPS) software</li>
+        <li>Investigating vulnerability patterns and attack surfaces in long-lived CPS and embedded systems</li>
+        <li>Systematically surveying CPS-related vulnerabilities using OSV, GitHub Issues, and security forums</li>
+        <li>Developing CPS-specific vulnerability characterization to reason about real-world system security</li>
         <li>🔗 <a href="https://kimhyungsub.github.io/">Lab Homepage</a></li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
@@ -76,7 +75,11 @@ I aim to develop technologies that enhance security and people’s lives while m
         <li><b>Supervisor:</b> Prof. Seongje Cho</li>
         <li><b>Period:</b> Mar 2025 – Present</li>
         <li><b>Location:</b> Yongin, Republic of Korea</li>
-        <li>Developing Android malware detection models using static analysis and machine learning.</li>
+        <li>Researching learning-based intrusion detection systems (IDS) under severe concept drift without retraining</li>
+        <li>Studying graph-based system abstractions for IDS using API co-occurrence graphs and community detection via Social Network Analysis (SNA)</li>
+        <li>Investigating Trusted Execution Environment (TEE)-based secure and lightweight deployment of post-quantum cryptography (PQC) with secret isolation on ARM TrustZone</li>
+        <li>Researching Android Secure IDS with <b>Illinois State University (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</b></li>
+        <li>Researching Embedded System Security with <b>Seoul National University, CSLab (Advisor: Prof. Jiwon Seo, Ph.D Martin Kayondo)</b></li>
         <li>🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
@@ -100,31 +103,51 @@ I aim to develop technologies that enhance security and people’s lives while m
 
 ## 📚 Publications
 
-### 🧾 Journals
+### SCI Journals
 
 | No. | Title & Details |
 |:--:|:--|
 | [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift"**, *Computer Modeling in Engineering & Sciences (CMES)*, 2025 [Q1, IF: 2.5] _(Accepted)_ |
+
+### Domestic Journals
+
+| No. | Title & Details |
+|:--:|:--|
 | [2] | **Kyoungmin Roh**, and Seongje Cho, **"Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities"**, *KISSE Transactions on Computing Practices (KTCP)*, 2025 _(Invited, Accepted)_ |
 
 ---
 
-### 👨‍🏫 Conferences
+## 👨‍🏫 Conferences
+
+### International Conferences
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 _(Accepted)_ |
-| [2] | **Kyoungmin Roh**, Suhyeon Park, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 _(Accepted)_ — 🏆 *Best Paper Award* |
-| [3] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seongje Cho, **"[Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 — 🏆 *[Best Paper Award](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/%EC%83%81%EC%9E%A5-%EC%B5%9C%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.pdf)* |
-| [4] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, and Seongje Cho, **"[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 |
+| [3] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 _(Accepted)_ |
+
+### Domestic Conferences
+
+| No. | Title & Details |
+|:--:|:--|
+| [4] | **Kyoungmin Roh**, Suhyeon Park, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 _(Accepted)_ — 🏆 *Best Paper Award* |
+| [5] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seongje Cho, **"[Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 — 🏆 *[Best Paper Award](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/%EC%83%81%EC%9E%A5-%EC%B5%9C%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.pdf)* |
+| [6] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, and Seongje Cho, **"[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 |
 
 ---
 
-### 🎓 Thesis
+## 🧷 Other Research Papers
+
+### Bachelor's Degree Thesis
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"[Qrust: AI-powered QR Phishing Detection and Secure QR Generation](https://github.com/rohkyoungmin/Research-Papers/blob/main/Thesis/Bachelor's%20Degree%20Thesis/%5B%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC%5D%20Spring_Qrust_AI-powered%20Phishing%20Detection%20and%20Secure%20QR%20Generation.pdf)"**, Department of Cybersecurity, Dankook University, Dec. 2025 — 🏆 *Audience Choice Award* |
+| [7] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"[Qrust: AI-powered QR Phishing Detection and Secure QR Generation](https://github.com/rohkyoungmin/Research-Papers/blob/main/Thesis/Bachelor's%20Degree%20Thesis/%5B%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC%5D%20Spring_Qrust_AI-powered%20Phishing%20Detection%20and%20Secure%20QR%20Generation.pdf)"**, Department of Cybersecurity, Dankook University, Dec. 2025 — 🏆 *Audience Choice Award* |
+
+### Paper Contest
+
+| No. | Title & Details |
+|:--:|:--|
+| [8] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon, **"[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20기반%20경량%20비밀%20분리형%20양자내성%20암호%20아키텍처.pdf)"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025. — 🏆 *1st Place Award* |
 
 ---
 
@@ -133,14 +156,6 @@ I aim to develop technologies that enhance security and people’s lives while m
 | No. | Title & Details |
 |:--:|:--|
 | [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Yoonho Choi, **"A Malware Detection Method Combining Clustering and Supervised Learning Models"**, Korean Patent Application No. 10-2025-0098855 _(Filed)_ |
-
----
-
-### 🧷 Paper Contest
-
-| No. | Title & Details |
-|:--:|:--|
-| [1] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon, **"[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20기반%20경량%20비밀%20분리형%20양자내성%20암호%20아키텍처.pdf)"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025. — 🏆 *1st Place Award* |
 
 ---
 
@@ -657,15 +672,6 @@ U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.
 
 ---
 
-## 🌐 Languages
-- **Korean** — Native  
-- **English** — Professional (academic writing, fluent speaking/listening)  
-- **Japanese** — Conversational listening; limited speaking  
-- **Chinese** — Basic reading/writing; limited listening  
-- **Arabic** — Basic alphabet and vocabulary  
-
----
-
 ## 🧮 Technical Skills
 
 <div align="center">
@@ -689,18 +695,6 @@ U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.
 - **Leadership:** Experience leading research and hackathon teams to measurable outcomes.  
 - **Creativity:** Combines analytical rigor with a background in fine arts for technical design and visualization.  
 - **Adaptability:** Learns new concepts quickly and maintains resilience under changing research contexts.  
-- **Innovation:** Experienced in rapid prototyping, hypothesis validation, and evaluation-driven iteration.  
-
----
-
-## 📜 References
-
-**Prof. Seong-je Cho**  
-Professor, Department of Software Science, Dankook University  
-📧 sjcho@dankook.ac.kr | 📞 +82-31-8005-3239  
-
-**Prof. Hyungsub Kim**  
-Assistant Professor, Department of Computer Science, Indiana University Bloomington  
-📧 hk145@iu.edu | 🏢 Luddy Hall 2046, Bloomington, IN 47408, USA  
+- **Innovation:** Experienced in rapid prototyping, hypothesis validation, and evaluation-driven iteration. 
 
 ---
