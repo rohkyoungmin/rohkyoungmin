@@ -30,17 +30,22 @@ I am interested in the security of complex systems that must operate reliably un
 
 <div align="center">
 
-<table>
-  <!-- IU SEC Lab -->
+<table style="width:90%; margin:auto;">
+
+  <!-- ===================== IU SEC Lab ===================== -->
   <tr style="height:80px;">
-    <td style="width:25%; text-align:center; vertical-align:middle;">
-      <img src="./images/Indiana%20University%20Logo.png" width="120">
+    <td style="width:25%; text-align:center;">
+      <div style="display:flex; align-items:center; justify-content:center; height:100%;">
+        <img src="./images/Indiana%20University%20Logo.png" width="120">
+      </div>
     </td>
     <td style="width:75%; vertical-align:middle;">
       <b>IU SEC Lab</b><br>
-      <i>Department of Computer Science, Indiana University Bloomington</i>
+      <i>Department of Computer Science, Indiana University Bloomington</i><br>
+      🔗 <a href="https://kimhyungsub.github.io/">Lab Homepage</a>
     </td>
   </tr>
+
   <tr>
     <td colspan="2" style="padding-left:20px;">
       <ul style="margin-top:4px;">
@@ -48,43 +53,46 @@ I am interested in the security of complex systems that must operate reliably un
         <li><b>Supervisor:</b> Prof. Hyungsub Kim</li>
         <li><b>Period:</b> Oct 2025 – Present</li>
         <li><b>Location:</b> Bloomington, U.S.</li>
-        <li>Analyzing security risks and failure modes in open-source Cyber-Physical System (CPS) software</li>
-        <li>Investigating vulnerability patterns and attack surfaces in long-lived CPS and embedded systems</li>
-        <li>Systematically surveying CPS-related vulnerabilities using OSV, GitHub Issues, and security forums</li>
-        <li>Developing CPS-specific vulnerability characterization to reason about real-world system security</li>
-        <li>🔗 <a href="https://kimhyungsub.github.io/">Lab Homepage</a></li>
+        <li>Analyzing security risks and failure modes in open-source CPS software</li>
+        <li>Investigating vulnerability patterns and attack surfaces in long-lived CPS</li>
+        <li>Surveying CPS-related vulnerabilities using OSV, GitHub Issues, and forums</li>
+        <li>Developing CPS-specific vulnerability characterization</li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
     </td>
   </tr>
 
-  <!-- DKU CSOS Lab -->
+  <!-- ===================== DKU CSOS Lab ===================== -->
   <tr style="height:80px;">
-    <td style="width:25%; text-align:center; vertical-align:middle;">
-      <img src="./images/dankook_logo.png" width="120">
+    <td style="width:25%; text-align:center;">
+      <div style="display:flex; align-items:center; justify-content:center; height:100%;">
+        <img src="./images/dankook_logo.png" width="120">
+      </div>
     </td>
     <td style="width:75%; vertical-align:middle;">
       <b>CSOS Lab</b><br>
-      <i>Department of Software Science, Dankook University</i>
+      <i>Department of Software Science, Dankook University</i><br>
+      🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a>
     </td>
   </tr>
+
   <tr>
     <td colspan="2" style="padding-left:20px;">
       <ul style="margin-top:4px;">
         <li><b>Position:</b> Research Intern</li>
-        <li><b>Supervisor:</b> Prof. Seongje Cho</li>
+        <li><b>Supervisor:</b> Prof. Seong-je Cho</li>
         <li><b>Period:</b> Mar 2025 – Present</li>
         <li><b>Location:</b> Yongin, Republic of Korea</li>
-        <li>Researching learning-based intrusion detection systems (IDS) under severe concept drift without retraining</li>
-        <li>Studying graph-based system abstractions for IDS using API co-occurrence graphs and community detection via Social Network Analysis (SNA)</li>
-        <li>Investigating Trusted Execution Environment (TEE)-based secure and lightweight deployment of post-quantum cryptography (PQC) with secret isolation on ARM TrustZone</li>
-        <li>Researching Android Secure IDS with <b>Illinois State University (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</b></li>
-        <li>Researching Embedded System Security with <b>Seoul National University, CSLab (Advisor: Prof. Jiwon Seo, Ph.D Martin Kayondo)</b></li>
-        <li>🔗 <a href="https://securesw.dankook.ac.kr/">Lab Homepage</a></li>
+        <li>Researching Learning-based IDS under severe concept drift without retraining</li>
+        <li>Studying Graph-based IDS using API co-occurrence & SNA</li>
+        <li>Investigating TEE-based lightweight PQC deployment on ARM TrustZone</li>
+        <li>Researching Android IDS with <br><b>Illinois State University (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</b></li>
+        <li>Researching System Security with <br><b>Seoul National University, CSLab (Advisor: Prof. Jiwon Seo, Ph.D Martin Kayondo)</b></li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
     </td>
   </tr>
+
 </table>
 
 </div>
