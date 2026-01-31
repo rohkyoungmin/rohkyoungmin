@@ -105,7 +105,7 @@ I am interested in the security of complex systems that must operate reliably un
 - Period: Mar 2021 – Expected Jan 2027  
 - Location: Yongin, Republic of Korea  
 - GPA: 3.0 / 4.5 (≈ 2.7 / 4.0 U.S. scale)  
-- Status: Undergraduate (Junior)
+- Status: Undergraduate (Junior -> Senior)
 
 ---
 
