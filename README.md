@@ -612,6 +612,19 @@ I am interested in the security of complex systems that must operate reliably un
   </tr>
 
   <tr>
+    <td>2025</td>
+    <td>
+      <b>[Chinese Intermediate 1] Native Speaker Tutoring Program (2025-2)</b>
+      <ul>
+        <li>Participated in weekly conversational sessions with a native Chinese instructor to improve speaking fluency.</li>
+        <li>Engaged in a semester-long tutoring program focusing on Chinese language and cultural exchange.</li>
+        <li>Successfully completed an intensive native speaker tutoring program organized by the university.</li>
+      </ul>
+    </td>
+    <td>Office of International Affairs, Dankook University</td>
+  </tr>
+
+  <tr>
     <td>2023</td>
     <td>
       <b>LG Aimers AI Bootcamp & Hackathon</b>
