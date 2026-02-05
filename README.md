@@ -86,8 +86,8 @@ I am interested in the security of complex systems that must operate reliably un
         <li>Researching Learning-based IDS under severe concept drift without retraining</li>
         <li>Studying Graph-based IDS using API co-occurrence & SNA</li>
         <li>Investigating TEE-based lightweight PQC deployment on ARM TrustZone</li>
-        <li>Researching Android IDS with <br><b>Illinois State University (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</b></li>
-        <li>Researching System Security with <br><b>Seoul National University, SORLab (Advisor: Prof. Jiwon Seo, Ph.D Martin Kayondo)</b></li>
+        <li>Collaborative Research on Android Intrusion Detection Systems with <br><b>Illinois State University (Advisor: Prof. Hyoil Han, Prof. Kyoungwon Seo)</b></li>
+        <li>Collaborative Research on Automotive Cyber-Physical System Security with <br><b>Seoul National University, SORLab (Advisor: Prof. Jiwon Seo, Ph.D Martin Kayondo)</b></li>
       </ul>
       <hr style="border:0; border-top:0.5px solid #d0d7de; margin:8px 0;">
     </td>
