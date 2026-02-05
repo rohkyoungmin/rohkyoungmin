@@ -115,7 +115,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift"**, *Computer Modeling in Engineering & Sciences (CMES)*, 2025 [Q1, IF: 2.5] _(Accepted)_ |
+| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift"**, *Computer Modeling in Engineering & Sciences (CMES)*, 2025 [SCIE Q1] _(Accepted)_ |
 
 ### Domestic Journals
 
