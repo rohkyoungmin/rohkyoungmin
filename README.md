@@ -115,13 +115,13 @@ I am interested in the security of complex systems that must operate reliably un
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift"**, *Computer Modeling in Engineering & Sciences (CMES)*, 2025 [SCIE Q1] _(Accepted)_ |
+| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift"**, *Computer Modeling in Engineering & Sciences (CMES)*, 2025 [SCIE Q1] [[🔗](https://www.techscience.com/CMES/online/detail/26122)] |
 
 ### Domestic Journals
 
 | No. | Title & Details |
 |:--:|:--|
-| [2] | **Kyoungmin Roh**, and Seongje Cho, **"Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities"**, *KISSE Transactions on Computing Practices (KTCP)*, 2025 _(Invited, Accepted)_ |
+| [2] | **Kyoungmin Roh**, and Seongje Cho, **"Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities"**, *KISSE Transactions on Computing Practices (KTCP)*, 2025 [Invited] [[🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12586205)] |
 
 ---
 
@@ -137,9 +137,9 @@ I am interested in the security of complex systems that must operate reliably un
 
 | No. | Title & Details |
 |:--:|:--|
-| [4] | **Kyoungmin Roh**, Suhyeon Park, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 _(Accepted)_ — 🏆 *Best Paper Award* |
-| [5] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seongje Cho, **"[Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 — 🏆 *[Best Paper Award](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/%EC%83%81%EC%9E%A5-%EC%B5%9C%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.pdf)* |
-| [6] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, and Seongje Cho, **"[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 |
+| [4] | **Kyoungmin Roh**, Suhyeon Park, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 [[🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577588)] — 🏆 *Best Paper Award* |
+| [5] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seongje Cho, **"[Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection]"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)] — 🏆 *[Best Paper Award](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/%EC%83%81%EC%9E%A5-%EC%B5%9C%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.pdf)* |
+| [6] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, and Seongje Cho, **"[Classifying File Fragment Types for IVI System Forensics]"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)] |
 
 ---
 
@@ -149,13 +149,13 @@ I am interested in the security of complex systems that must operate reliably un
 
 | No. | Title & Details |
 |:--:|:--|
-| [7] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"[Qrust: AI-powered QR Phishing Detection and Secure QR Generation](https://github.com/rohkyoungmin/Research-Papers/blob/main/Thesis/Bachelor's%20Degree%20Thesis/%5B%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC%5D%20Spring_Qrust_AI-powered%20Phishing%20Detection%20and%20Secure%20QR%20Generation.pdf)"**, Department of Cybersecurity, Dankook University, Dec. 2025 — 🏆 *Audience Choice Award* |
+| [7] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"[Qrust: AI-powered QR Phishing Detection and Secure QR Generation]"**, Department of Cybersecurity, Dankook University, Dec. 2025 [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/Thesis/Bachelor's%20Degree%20Thesis/%5B%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC%5D%20Spring_Qrust_AI-powered%20Phishing%20Detection%20and%20Secure%20QR%20Generation.pdf)] — 🏆 *Audience Choice Award* |
 
 ### Paper Contest
 
 | No. | Title & Details |
 |:--:|:--|
-| [8] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon, **"[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20기반%20경량%20비밀%20분리형%20양자내성%20암호%20아키텍처.pdf)"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025. — 🏆 *1st Place Award* |
+| [8] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon, **"[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone]"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025. [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20기반%20경량%20비밀%20분리형%20양자내성%20암호%20아키텍처.pdf)] — 🏆 *1st Place Award* |
 
 ---
 
