@@ -131,7 +131,7 @@ I am interested in the security of complex systems that must operate reliably un
 | No. | Title & Details |
 |:--:|:--|
 | [3] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 |
-| [4] | Nahee Kwon **Kyoungmin Roh**, Youngsup Hwang, Boojoong Kang, and Seongje Cho, **"C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection"**, *23rd International Conference on Security and Cryptography (SECRYPT 2026)*, Porto, Portugal, July. 2026 _(Accepted)_ |
+| [4] | Nahee Kwon, **Kyoungmin Roh**, Youngsup Hwang, Boojoong Kang, and Seongje Cho, **"C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection"**, *23rd International Conference on Security and Cryptography (SECRYPT 2026)*, Porto, Portugal, July. 2026 _(Accepted)_ |
 
 ### Domestic Conferences
 
