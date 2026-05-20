@@ -51,7 +51,7 @@ I am interested in the security of complex systems that must operate reliably un
       <ul style="margin-top:4px;">
         <li><b>Position:</b> Research Intern</li>
         <li><b>Supervisor:</b> Prof. Hyungsub Kim</li>
-        <li><b>Period:</b> Oct 2025 – Present</li>
+        <li><b>Period:</b> Oct 2025 – Jan 2026</li>
         <li><b>Location:</b> Bloomington, U.S.</li>
         <li>Analyzing security risks and failure modes in open-source CPS software</li>
         <li>Investigating vulnerability patterns and attack surfaces in long-lived CPS</li>
