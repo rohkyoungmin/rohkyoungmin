@@ -16,17 +16,17 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 To pursue an academic career in cybersecurity as a professor, contributing to society through impactful research and education. I aim to develop technologies that enhance security and people’s lives while mentoring the next generation of researchers who will advance the field beyond my own contributions.
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 I am interested in the security of complex systems that must operate reliably under evolving threats and broken assumptions. My current research focuses on CPS and system security, with a particular emphasis on learning-based intrusion detection (IDS) under concept drift and the secure deployment of post-quantum cryptography (PQC) in CPS and embedded systems. My research goal is to establish principled foundations for designing secure systems that remain trustworthy over time, across various environments, and during the post-quantum transition.
 
 ---
 
-## 🧠 Research Experience
+## Research Experience
 
 <div align="center">
 
@@ -98,7 +98,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 🏫 Education
+## Education
 **Dankook University**  
 *B.E. in Cybersecurity*
 - Period: Mar 2021 – Expected Jan 2027  
@@ -108,7 +108,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 📚 Publications
+## Publications
 
 ### SCI Journals
 
@@ -124,7 +124,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 👨‍🏫 Conferences
+## Conferences
 
 ### International Conferences
 
@@ -143,7 +143,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 🧷 Other Research Papers
+## Other Research Papers
 
 ### Bachelor's Degree Thesis
 
@@ -159,7 +159,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-### ⚙️ Patents
+### Patents
 
 | No. | Title & Details |
 |:--:|:--|
@@ -167,7 +167,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 🏆 Awards & Scholarships
+## Awards & Scholarships
 
 <table>
   <tr>
@@ -331,7 +331,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ## Projects
 
-### 🔐 Security Projects
+### Security Projects
 
 <table>
   <tr>
@@ -457,7 +457,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-### 💻 Development Projects
+### Development Projects
 
 <table>
   <tr>
@@ -563,7 +563,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 💥 Security-Related Experiences
+## Security-Related Experiences
 
 - **RubiyaLab CTF Team** (Jul 2025 – Nov 2025)  
   - Member of South Korea’s #1 and globally top-ranked CTF team.  
@@ -581,9 +581,9 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 🧩 CTF Highlights
+## CTF Highlights
 
-- 📜 [CTF Writeups on Medium](https://medium.com/@kyoungminroh01)
+-  [CTF Writeups on Medium](https://medium.com/@kyoungminroh01)
 
 <div align="center">
 
@@ -600,7 +600,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 🎯 Extracurricular Activities
+## Extracurricular Activities
 
 <div align="center">
 
@@ -643,7 +643,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 🤝 Volunteer Experience
+## Volunteer Experience
 
 <div align="center">
 
@@ -684,7 +684,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 ---
 
-## 🎖 Military Service
+## Military Service
 **KATUSA (Korean Augmentation to the U.S. Army)** (Aug 2023 – Feb 2025)  
 U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.  
 - Served as interpreter and liaison during joint U.S.–ROK operations.  
@@ -693,29 +693,3 @@ U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.
 
 ---
 
-## 🧮 Technical Skills
-
-<div align="center">
-
-| Category | Skills |
-|:--------|:--------|
-| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/> |
-| **Security** | <img src="https://img.shields.io/badge/Android%20Malware%20Analysis-3DDC84?style=flat-square&logo=android&logoColor=white"/> <img src="https://img.shields.io/badge/Digital%20Forensics-0078D7?style=flat-square&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Cryptography-6E5494?style=flat-square&logo=openssl&logoColor=white"/> <img src="https://img.shields.io/badge/Web/Mobile%20Hacking-000000?style=flat-square&logo=burpsuite&logoColor=orange"/> |
-| **AI/ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> |
-| **Frontend** | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white"/> |
-| **Backend** | <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> |
-| **OS & Tools** | <img src="https://img.shields.io/badge/Linux/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/> |
-| **Design & Collaboration** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> |
-
-</div>
-
----
-
-## 🧭 Soft Skills
-- **Communication:** Bilingual technical communicator; strong in English academic writing and public speaking.  
-- **Leadership:** Experience leading research and hackathon teams to measurable outcomes.  
-- **Creativity:** Combines analytical rigor with a background in fine arts for technical design and visualization.  
-- **Adaptability:** Learns new concepts quickly and maintains resilience under changing research contexts.  
-- **Innovation:** Experienced in rapid prototyping, hypothesis validation, and evaluation-driven iteration. 
-
----
