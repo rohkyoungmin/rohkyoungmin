@@ -110,36 +110,38 @@ I am interested in the security of complex systems that must operate reliably un
 
 ## Publications
 
-### SCI Journals
+An asterisk (*) denotes co-first author.
+
+### Peer-Reviewed Journal Articles
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift"**, *Computer Modeling in Engineering & Sciences (CMES)*, 2025 [SCIE Q1] [[🔗](https://www.techscience.com/CMES/online/detail/26122)] |
+| [1] | **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, Youngsup Hwang, and Dongjae Kim, **"SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift"**, *Computer Modeling in Engineering & Sciences (CMES)*, Apr. 2026 [SCIE Q1] [[🔗](https://www.techscience.com/CMES/online/detail/26122)] |
 
-### Domestic Journals
-
-| No. | Title & Details |
-|:--:|:--|
-| [2] | **Kyoungmin Roh**, and Seongje Cho, **"Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities"**, *KISSE Transactions on Computing Practices (KTCP)*, 2025 [Invited] [[🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12586205)] |
-
----
-
-## Conferences
-
-### International Conferences
+### Peer-Reviewed International Conference Papers
 
 | No. | Title & Details |
 |:--:|:--|
-| [3] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 |
-| [4] | Nahee Kwon, **Kyoungmin Roh**, Youngsup Hwang, Boojoong Kang, and Seongje Cho, **"C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection"**, *23rd International Conference on Security and Cryptography (SECRYPT 2026)*, Porto, Portugal, July. 2026 _(Accepted)_ |
+| [2] | **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Youngsup Hwang, **"ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts"**, *The 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar. 2026 |
+| [3] | Nahee Kwon, **Kyoungmin Roh**, Youngsup Hwang, Seong-je Cho, and Boojoong Kang, **"C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection"**, *23rd International Conference on Security and Cryptography (SECRYPT 2026)*, Porto, Portugal, Jul. 2026 [Accepted] |
 
-### Domestic Conferences
+### Peer-Reviewed Domestic Publications
 
 | No. | Title & Details |
 |:--:|:--|
-| [5] | **Kyoungmin Roh**, Suhyeon Park, and Seongje Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 [[🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577588)] — 🏆 *Best Paper Award* |
-| [6] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seongje Cho, **"[Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection]"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)] — 🏆 *[Best Paper Award](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/%EC%83%81%EC%9E%A5-%EC%B5%9C%EC%9A%B0%EC%88%98%EB%85%BC%EB%AC%B8%EC%83%81.pdf)* |
-| [7] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, and Seongje Cho, **"[Classifying File Fragment Types for IVI System Forensics]"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)] |
+| [4] | **Kyoungmin Roh***, Nahee Kwon*, Suhyeon Park, and Seong-je Cho, **"A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems"**, *Korea Computer Congress (KCC 2026)*, Jeju, Republic of Korea, Jun. 2026 [Accepted] |
+| [5] | Nahee Kwon, **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho, **"SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection"**, *Korea Computer Congress (KCC 2026)*, Jeju, Republic of Korea, Jun. 2026 [Accepted] |
+| [6] | **Kyoungmin Roh**, and Seong-je Cho, **"Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities"**, *KIISE Transactions on Computing Practices (KTCP)*, Jan. 2026 [Invited] [[🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12586205)] |
+| [7] | **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho, **"Drift-Aware Security Module based on Louvain Communities for Retraining-Free Android Malware Detection"**, *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec. 2025 [Best Paper Award] [[🔗](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577588)] |
+| [8] | **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seong-je Cho, **"Android Malware Detection using Co-occurrence Graphs of APIs and Louvain Method for Community Detection"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 [Best Paper Award] [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)] |
+| [9] | Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, and Seong-je Cho, **"Classifying File Fragment Types for IVI System Forensics"**, *WDSC 2025: Workshop on Dependable and Secure Computing*, Jeju, Republic of Korea, Aug. 2025 [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)] |
+
+### Manuscripts Under Review
+
+| No. | Title & Details |
+|:--:|:--|
+| [10] | **Kyoungmin Roh**, Nahee Kwon, Seong-je Cho, Kyoungwon Suh, and Hyoil Han, **"Taming Concept Drift in Android Malware Detection via Semantic Clustering"**, Submitted to *IEEE Annual Computer Security Applications Conference (ACSAC 2026)* |
+| [11] | Nahee Kwon, **Kyoungmin Roh**, and Seong-je Cho, **"Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection"**, Submitted to *Journal of KIISE (JOK)* [Invited] |
 
 ---
 
@@ -149,13 +151,13 @@ I am interested in the security of complex systems that must operate reliably un
 
 | No. | Title & Details |
 |:--:|:--|
-| [8] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"[Qrust: AI-powered QR Phishing Detection and Secure QR Generation]"**, Department of Cybersecurity, Dankook University, Dec. 2025 [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/Thesis/Bachelor's%20Degree%20Thesis/%5B%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC%5D%20Spring_Qrust_AI-powered%20Phishing%20Detection%20and%20Secure%20QR%20Generation.pdf)] — 🏆 *Audience Choice Award* |
+| [12] | **Kyoungmin Roh**, Junhyeong Kim, and Minseok Seong, **"[Qrust: AI-powered QR Phishing Detection and Secure QR Generation]"**, Department of Cybersecurity, Dankook University, Dec. 2025 [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/Thesis/Bachelor's%20Degree%20Thesis/%5B%EC%82%AC%EC%9D%B4%EB%B2%84%EB%B3%B4%EC%95%88%ED%95%99%EA%B3%BC%5D%20Spring_Qrust_AI-powered%20Phishing%20Detection%20and%20Secure%20QR%20Generation.pdf)] — 🏆 *Audience Choice Award* |
 
 ### Paper Contest
 
 | No. | Title & Details |
 |:--:|:--|
-| [9] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon, **"[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone]"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025. [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20기반%20경량%20비밀%20분리형%20양자내성%20암호%20아키텍처.pdf)] — 🏆 *1st Place Award* |
+| [13] | **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon, **"[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone]"**, *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec. 2025. [[🔗](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20기반%20경량%20비밀%20분리형%20양자내성%20암호%20아키텍처.pdf)] — 🏆 *1st Place Award* |
 
 ---
 
@@ -163,7 +165,7 @@ I am interested in the security of complex systems that must operate reliably un
 
 | No. | Title & Details |
 |:--:|:--|
-| [1] | **Kyoungmin Roh**, Seungmin Lee, Seongje Cho, and Yoonho Choi, **"A Malware Detection Method Combining Clustering and Supervised Learning Models"**, Korean Patent Application No. 10-2025-0098855 _(Filed)_ |
+| [P1] | **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Yoonho Choi, **"A Malware Detection Method Combining Clustering and Supervised Learning Models"**, Korean Patent Application No. 10-2025-0098855 _(Filed, 2025)_ |
 
 ---
 
@@ -331,6 +333,18 @@ I am interested in the security of complex systems that must operate reliably un
 
 ## Projects
 
+<div align="center">
+
+<a href="https://github.com/rohkyoungmin/lidar_car_project">
+  <img src="https://img.shields.io/badge/Safe%20LiDAR%20Embedded%20Car-ROS2%20%7C%20Raspberry%20Pi%204%20%7C%20Arduino%20%7C%20RPLIDAR-0A66C2?style=for-the-badge&logo=ros&logoColor=white"/>
+</a>
+<br>
+<img src="https://img.shields.io/badge/Latest%20Project-Safe%20LiDAR--IVI%20Embedded%20Vehicle-6F42C1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-CPS%20Safety%20%26%20Automotive%20Embedded%20Systems-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Live%20LiDAR%20Scan%20%2B%20Safe%20Mode-orange?style=for-the-badge"/>
+
+</div>
+
 ### Security Projects
 
 <table>
@@ -343,6 +357,27 @@ I am interested in the security of complex systems that must operate reliably un
 
   <tr>
     <td align="center">[1]</td>
+    <td><b>Safe LiDAR-IVI Embedded Vehicle Platform</b><br><sub>ROS2-based CPS Safety Prototype</sub></td>
+    <td>
+      <ul>
+        <li>Built a Raspberry Pi 4, Arduino Uno, and RPLIDAR C1-based 4WD differential-drive embedded vehicle platform with an IVI-style PC browser control UI.</li>
+        <li>Implemented Arduino USB-Serial motor control, per-wheel PWM scale/invert calibration, individual wheel diagnostics, and manual driving through web buttons and keyboard controls.</li>
+        <li>Integrated ROS2 Humble <code>/scan</code> processing into a live LiDAR scan view with front/rear/left/right obstacle indicators.</li>
+        <li>Implemented a prototype Safe Mode that uses LiDAR-based obstacle detection to visualize hazards and block unsafe forward commands.</li>
+        <li>Clarified the current system boundary: live LiDAR scan and safety-assisted teleoperation are implemented, while SLAM mapping, Nav2 goal navigation, and map-coordinate autonomous driving remain future work due to missing encoder odometry.</li>
+      </ul>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rohkyoungmin/lidar_car_project">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" width="90"/>
+      </a><br>
+      <img src="https://img.shields.io/badge/ROS2-Humble-22314E?style=flat-square&logo=ros&logoColor=white" width="90"/><br>
+      <img src="https://img.shields.io/badge/RPi-Arduino-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" width="90"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">[2]</td>
     <td><b>Split-Kyber for ARM TrustZone-A</b><br><sub>Secret-Isolated PQC Architecture</sub></td>
     <td>
       <ul>
@@ -360,7 +395,7 @@ I am interested in the security of complex systems that must operate reliably un
   </tr>
 
   <tr>
-    <td align="center">[2]</td>
+    <td align="center">[3]</td>
     <td><b>LV.0: LLM Vulnerability Zero</b><br><sub>LLM-powered Security Vulnerability Reporter</sub></td>
     <td>
       <ul>
@@ -382,7 +417,7 @@ I am interested in the security of complex systems that must operate reliably un
   </tr>
 
   <tr>
-    <td align="center">[3]</td>
+    <td align="center">[4]</td>
     <td><b>ASX: Android API Sequence Extractor</b></td>
     <td>
       <ul>
@@ -399,7 +434,7 @@ I am interested in the security of complex systems that must operate reliably un
   </tr>
 
   <tr>
-    <td align="center">[4]</td>
+    <td align="center">[5]</td>
     <td><b>Qrust: Secure QR & AI Phishing Detector</b></td>
     <td>
       <ul>
@@ -421,7 +456,7 @@ I am interested in the security of complex systems that must operate reliably un
   </tr>
 
   <tr>
-    <td align="center">[5]</td>
+    <td align="center">[6]</td>
     <td><b>Digital Forensic Toolkit for Hyundai Avante (CN7)</b></td>
     <td>
       <ul>
@@ -438,7 +473,7 @@ I am interested in the security of complex systems that must operate reliably un
   </tr>
 
   <tr>
-    <td align="center">[6]</td>
+    <td align="center">[7]</td>
     <td><b>Post-Quantum Signature System</b><br><sub>Lamport + Merkle Tree</sub></td>
     <td>
       <ul>
@@ -692,4 +727,5 @@ U.S. 8th Army, Camp Carroll, 35th ADA Brigade, Echo Company.
 - Won *Best Warrior Squad* and *Best KATUSA* awards for duty performance.  
 
 ---
+
 
