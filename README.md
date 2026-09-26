@@ -13,13 +13,22 @@
 </p>
 
 <p align="center">
+  <a href="#education">Education</a> /
   <a href="#research-experience">Research</a> /
   <a href="#publications">Publications</a> /
-  <a href="#test-scores">Test Scores</a> /
   <a href="#honors-and-awards">Honors</a> /
   <a href="#scholarships">Scholarships</a> /
-  <a href="#education">Education</a>
+  <a href="#test-scores">Test Scores</a>
 </p>
+
+## Education
+
+### Dankook University
+**B.E. Candidate in Cybersecurity** · Yongin, Republic of Korea · Mar 2021 – Expected Feb 2027
+
+- **GPA:** 3.20/4.50.
+- **Undergraduate thesis:** “Qrust: AI-Powered QR Phishing Detection and Secure QR Generation.” [Project repositories](https://github.com/dku-capstone).
+- **Selected coursework:** Calculus I–II, Linear Algebra, Numerical Analysis, Probability and Statistics, Statistics, and Discrete Mathematics.
 
 ## Research experience
 
@@ -92,10 +101,6 @@ Supervisor: Prof. Hyungsub Kim
 2. Nahee Kwon, **Kyoungmin Roh**, and Seong-je Cho. “Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection.” Submitted to the *Journal of KIISE*. Invited submission.
 3. **Kyoungmin Roh**, Seong-je Cho, Martin Kayondo, and Jiwon Seo. Manuscript on confidential computing for software-defined vehicles. In preparation.
 
-## Test scores
-
-- **TOEFL:** Reading 5.5; Listening 5.0; Writing 5.5; Speaking 4.0; Overall 5.0 (C1).
-
 ## Honors and awards
 
 ### Research, paper, and project awards
@@ -125,14 +130,9 @@ Supervisor: Prof. Hyungsub Kim
 - **Specialized Project Scholarship** · Dec 2022 · Dankook University, Department of Industrial Security. Recognized high performance in a department-designated project.
 - **Admission Scholarship** · Mar 2021 · Dankook University, National Program of Excellence in Software. Entrance scholarship awarded through the university's software-excellence program.
 
-## Education
+## Test scores
 
-### Dankook University
-**B.E. Candidate in Cybersecurity** · Yongin, Republic of Korea · Mar 2021 – Expected Feb 2027
-
-- **GPA:** 3.20/4.50.
-- **Undergraduate thesis:** “Qrust: AI-Powered QR Phishing Detection and Secure QR Generation.” [Project repositories](https://github.com/dku-capstone).
-- **Selected coursework:** Calculus I–II, Linear Algebra, Numerical Analysis, Probability and Statistics, Statistics, and Discrete Mathematics.
+- **TOEFL:** Reading 5.5; Listening 5.0; Writing 5.5; Speaking 4.0; Overall 5.0 (C1).
 
 ---
 
