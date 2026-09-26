@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="Kyoungmin Roh — Machine Learning Engineer" width="100%">
+  <img src="./assets/profile-header.svg" alt="Kyoungmin Roh | Machine Learning Engineer" width="100%">
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Supervisor: Prof. Hyungsub Kim
 - To make fragmented open-source CPS vulnerability evidence suitable for empirical study, collected and normalized reports from OSV, GitHub Issues, and security forums into a structured dataset.
 - Classified evidence by affected component, failure mode, attack surface, and security impact, producing a reusable foundation for systematic analysis of real-world CPS software weaknesses.
 
-### KATUSA — Korean Augmentation to the U.S. Army
+### KATUSA (Korean Augmentation to the U.S. Army)
 **U.S. Eighth Army, 35th Air Defense Artillery Brigade, 2-1 ADA Battalion** · Camp Carroll, Republic of Korea · Aug 2023 – Feb 2025
 
 - To support day-to-day readiness in a bilingual U.S.–ROK unit, served concurrently as an artillery supply soldier, environmental officer, and interpreter, coordinating logistics and communication across military systems and cultures.
@@ -74,35 +74,38 @@ Supervisor: Prof. Hyungsub Kim
 
 ## Publications
 
-<sup>†</sup> Co-first authorship. The categories below distinguish published papers, other research outputs, and manuscripts.
+<sup>†</sup> Co-first authorship.
 
-### Published papers
+### International journal article
 
-| Paper and authors | Venue and recognition |
-| --- | --- |
-| **[SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift](https://www.sciencedirect.com/org/science/article/pii/S1526149226001244)**<br>**Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, Youngsup Hwang, Dongjae Kim | *Computer Modeling in Engineering & Sciences (CMES)* · International journal · Apr 2026 · **SCIE Q1** |
-| **[ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts](https://dl.acm.org/doi/10.1145/3748522.3779797)**<br>**Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, Youngsup Hwang | *Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)* · Thessaloniki, Greece · Mar 2026 |
-| **C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection**<br>Nahee Kwon, **Kyoungmin Roh**, Youngsup Hwang, Seong-je Cho, Boojoong Kang | *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT 2026)* · Porto, Portugal · Jul 2026 |
-| **[Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12586205)**<br>**Kyoungmin Roh**, Seong-je Cho | *KIISE Transactions on Computing Practices* · Domestic journal · Jan 2026 · Invited article |
-| **A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems**<br>**Kyoungmin Roh**<sup>†</sup>, Nahee Kwon<sup>†</sup>, Suhyeon Park, Seong-je Cho | *Korea Computer Congress (KCC 2026)* · Jeju, Republic of Korea · Jun 2026 · **Distinguished Paper Award** |
-| **SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection**<br>Nahee Kwon, **Kyoungmin Roh**, Suhyeon Park, Seong-je Cho | *KCC 2026* · Jeju, Republic of Korea · Jun 2026 |
-| **[Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577588)**<br>**Kyoungmin Roh**, Suhyeon Park, Seong-je Cho | *Korea Software Congress (KSC 2025)* · Yeosu, Republic of Korea · Dec 2025 · **Best Paper Award** |
-| **[Android Malware Detection Using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf)**<br>**Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, Seong-je Cho | *Workshop on Dependable and Secure Computing (WDSC 2025)* · Jeju, Republic of Korea · Aug 2025 · **Best Paper Award** |
-| **[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf)**<br>Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, Seong-je Cho | *WDSC 2025* · Jeju, Republic of Korea · Aug 2025 |
+1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, Youngsup Hwang, and Dongjae Kim. “[SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift](https://www.sciencedirect.com/org/science/article/pii/S1526149226001244).” *Computer Modeling in Engineering & Sciences (CMES)*, Apr 2026. **SCIE Q1**.
+
+### International conference papers
+
+1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Youngsup Hwang. “[ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts](https://dl.acm.org/doi/10.1145/3748522.3779797).” *Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar 2026.
+2. Nahee Kwon, **Kyoungmin Roh**, Youngsup Hwang, Seong-je Cho, and Boojoong Kang. “C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection.” *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT 2026)*, Porto, Portugal, Jul 2026.
+
+### Domestic journal article
+
+1. **Kyoungmin Roh** and Seong-je Cho. “[Concept Drift-Resilient Android Malware Detection via API Co-occurrence Graphs and Louvain Communities](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12586205).” *KIISE Transactions on Computing Practices*, Jan 2026. Invited article.
+
+### Domestic conference and workshop papers
+
+1. **Kyoungmin Roh**<sup>†</sup>, Nahee Kwon<sup>†</sup>, Suhyeon Park, and Seong-je Cho. “A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems.” *Korea Computer Congress (KCC 2026)*, Jeju, Republic of Korea, Jun 2026. **Distinguished Paper Award**.
+2. Nahee Kwon, **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho. “SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection.” *Korea Computer Congress (KCC 2026)*, Jeju, Republic of Korea, Jun 2026.
+3. **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho. “[Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577588).” *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec 2025. **Best Paper Award**.
+4. **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seong-je Cho. “[Android Malware Detection Using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf).” *Workshop on Dependable and Secure Computing (WDSC 2025)*, Jeju, Republic of Korea, Aug 2025. **Best Paper Award**.
+5. Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, and Seong-je Cho. “[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf).” *Workshop on Dependable and Secure Computing (WDSC 2025)*, Jeju, Republic of Korea, Aug 2025.
 
 ### Additional research publication
 
-| Work and authors | Venue and recognition |
-| --- | --- |
-| **[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20%EA%B8%B0%EB%B0%98%20%EA%B2%BD%EB%9F%89%20%EB%B9%84%EB%B0%80%20%EB%B6%84%EB%A6%AC%ED%98%95%20%EC%96%91%EC%9E%90%EB%82%B4%EC%84%B1%20%EC%95%94%ED%98%B8%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.pdf)**<br>**Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, Subin Jeon | *Cyber Security Contest*, Department of Cybersecurity, Dankook University · Dec 2025 · **First Place Award** |
+1. **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon. “[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20%EA%B8%B0%EB%B0%98%20%EA%B2%BD%EB%9F%89%20%EB%B9%84%EB%B0%80%20%EB%B6%84%EB%A6%AC%ED%98%95%20%EC%96%91%EC%9E%90%EB%82%B4%EC%84%B1%20%EC%95%94%ED%98%B8%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.pdf).” *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec 2025. **First Place Award**.
 
 ### Manuscripts and ongoing writing
 
-| Work and authors | Status |
-| --- | --- |
-| **Taming Concept Drift in Android Malware Detection via Semantic Clustering**<br>**Kyoungmin Roh**, Nahee Kwon, Seong-je Cho, Kyoungwon Suh, Hyoil Han | In revision following *ACSAC 2026* Round 3 review |
-| **Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection**<br>Nahee Kwon, **Kyoungmin Roh**, Seong-je Cho | Submitted to the *Journal of KIISE* · Invited submission |
-| **Manuscript on confidential computing for software-defined vehicles**<br>**Kyoungmin Roh**, Seong-je Cho, Martin Kayondo, Jiwon Seo | In preparation |
+1. **Kyoungmin Roh**, Nahee Kwon, Seong-je Cho, Kyoungwon Suh, and Hyoil Han. “Taming Concept Drift in Android Malware Detection via Semantic Clustering.” In revision following *ACSAC 2026* Round 3 review.
+2. Nahee Kwon, **Kyoungmin Roh**, and Seong-je Cho. “Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection.” Submitted to the *Journal of KIISE*. Invited submission.
+3. **Kyoungmin Roh**, Seong-je Cho, Martin Kayondo, and Jiwon Seo. Manuscript on confidential computing for software-defined vehicles. In preparation.
 
 ## Honors and awards
 
