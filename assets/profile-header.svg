@@ -1,18 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Kyoungmin Roh — Cybersecurity Researcher and Engineer</title>
-  <desc id="desc">Dark navy academic CV banner with fine circuit lines and teal accents.</desc>
-  <defs>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#91a9bd" stroke-opacity=".08" stroke-width="1"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="300" rx="22" fill="#0d1c2e"/>
-  <rect width="1200" height="300" rx="22" fill="url(#grid)"/>
-  <path d="M820 47h175l44 44h113M900 92h92l50 50h110M790 210h170l44-44h148M865 255h95l44-44h148" fill="none" stroke="#43d9bc" stroke-opacity=".36" stroke-width="2"/>
-  <g fill="#43d9bc" opacity=".8"><circle cx="820" cy="47" r="5"/><circle cx="900" cy="92" r="5"/><circle cx="790" cy="210" r="5"/><circle cx="865" cy="255" r="5"/></g>
-  <rect x="64" y="55" width="50" height="4" rx="2" fill="#43d9bc"/>
-  <text x="64" y="105" fill="#73d8c8" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">ACADEMIC CV / CYBERSECURITY</text>
-  <text x="60" y="185" fill="#f7fbff" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="64">Kyoungmin Roh</text>
-  <text x="64" y="230" fill="#b8cedf" font-family="Arial, Helvetica, sans-serif" font-size="22">Trustworthy AI  /  Confidential Computing  /  Embedded Systems</text>
-  <rect x="64" y="260" width="450" height="2" rx="1" fill="#43d9bc" opacity=".8"/>
+  <title id="title">Kyoungmin Roh — Machine Learning Engineer</title>
+  <desc id="desc">Name and role written in dark ink on warm, lightly ruled paper.</desc>
+  <rect width="1200" height="300" rx="20" fill="#f7f2e8"/>
+  <rect x="8" y="8" width="1184" height="284" rx="13" fill="none" stroke="#dbd0bf" stroke-width="1.5"/>
+  <g stroke="#91aabd" stroke-opacity=".22" stroke-width="1">
+    <path d="M28 96H1172M28 139H1172M28 182H1172M28 225H1172M28 268H1172"/>
+  </g>
+  <path d="M71 20V279" stroke="#bb8b7b" stroke-opacity=".44" stroke-width="1.5"/>
+  <g fill="#a59683" fill-opacity=".18">
+    <circle cx="33" cy="49" r="1"/><circle cx="202" cy="27" r="1"/><circle cx="359" cy="65" r="1"/>
+    <circle cx="519" cy="39" r="1"/><circle cx="735" cy="78" r="1"/><circle cx="982" cy="44" r="1"/>
+    <circle cx="1132" cy="107" r="1"/><circle cx="144" cy="254" r="1"/><circle cx="424" cy="267" r="1"/>
+    <circle cx="669" cy="248" r="1"/><circle cx="885" cy="275" r="1"/><circle cx="1058" cy="227" r="1"/>
+  </g>
+  <g fill="none" stroke="#9f8d79" stroke-opacity=".14" stroke-width="1" stroke-linecap="round">
+    <path d="M270 53l5 1M605 22l7-1M892 69l6 1M115 121l5-1M495 207l6 1M1097 249l5-1"/>
+  </g>
+  <text x="97" y="73" fill="#84766a" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="3">CURRICULUM VITAE</text>
+  <text x="92" y="161" fill="#263343" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="72">Kyoungmin Roh</text>
+  <text x="99" y="218" fill="#3d5368" font-family="Georgia, 'Times New Roman', serif" font-size="29">Machine Learning Engineer</text>
+  <path d="M96 239C265 236 431 241 637 238" fill="none" stroke="#6c879a" stroke-opacity=".7" stroke-width="2" stroke-linecap="round"/>
 </svg>
