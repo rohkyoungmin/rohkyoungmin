@@ -15,31 +15,11 @@
 <p align="center">
   <a href="#research-experience">Research</a> /
   <a href="#publications">Publications</a> /
-  <a href="#technical-and-academic-projects">Projects</a> /
+  <a href="#test-scores">Test Scores</a> /
   <a href="#honors-and-awards">Honors</a> /
+  <a href="#scholarships">Scholarships</a> /
   <a href="#education">Education</a>
 </p>
-
-> **Cybersecurity researcher and engineer** working across trustworthy AI, confidential computing, embedded security, and cyber-physical systems. My research has produced a first-author SCIE Q1 journal article, a first-author ACM SAC paper, additional peer-reviewed publications, a Korean patent application, and multiple paper awards.
-
-**Based in:** Seongnam, Republic of Korea  
-**Phone:** +82 10-2506-3409  
-**Email:** [imsie1@dankook.ac.kr](mailto:imsie1@dankook.ac.kr)
-
-## Profile
-
-I develop concept-drift-resilient Android malware detection methods and TrustZone/CCA-based secure-system designs. My work combines security research with implementation across Arm trusted execution environments, post-quantum cryptography, Android analysis, and embedded platforms.
-
-**Research interests:** Trustworthy AI for Security; Android Malware Detection; Concept Drift; Trusted Execution Environments; Arm TrustZone and CCA; Post-Quantum Cryptography; Embedded and Cyber-Physical Systems Security.
-
-## Education
-
-### Dankook University
-**B.E. Candidate in Cybersecurity** · Yongin, Republic of Korea · Mar 2021 – Expected Feb 2027
-
-- **GPA:** 3.20/4.50.
-- **Undergraduate thesis:** “Qrust: AI-Powered QR Phishing Detection and Secure QR Generation.” [Project repositories](https://github.com/dku-capstone).
-- **Selected coursework:** Calculus I–II, Linear Algebra, Numerical Analysis, Probability and Statistics, Statistics, and Discrete Mathematics.
 
 ## Research experience
 
@@ -77,14 +57,6 @@ Supervisor: Prof. Hyungsub Kim
 - To make fragmented open-source CPS vulnerability evidence suitable for empirical study, collected and normalized reports from OSV, GitHub Issues, and security forums into a structured dataset.
 - Classified evidence by affected component, failure mode, attack surface, and security impact, producing a reusable foundation for systematic analysis of real-world CPS software weaknesses.
 
-## Leadership experience
-
-### KATUSA — Korean Augmentation to the U.S. Army
-**U.S. Eighth Army, 35th Air Defense Artillery Brigade, 2-1 ADA Battalion** · Camp Carroll, Republic of Korea · Aug 2023 – Feb 2025
-
-- To support day-to-day readiness in a bilingual U.S.–ROK unit, served concurrently as an artillery supply soldier, environmental officer, and interpreter, coordinating logistics and communication across military systems and cultures.
-- Demonstrated team performance under field and duty constraints as a member of the winning Best Warrior Squad, leading to the Best KATUSA Award, the Army Commendation Medal, and end-of-service recognition from U.S. and ROK Army organizations.
-
 ## Publications
 
 <sup>†</sup> Co-first authorship. The categories below distinguish published papers, other research outputs, and manuscripts.
@@ -120,98 +92,9 @@ Supervisor: Prof. Hyungsub Kim
 2. Nahee Kwon, **Kyoungmin Roh**, and Seong-je Cho. “Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection.” Submitted to the *Journal of KIISE*. Invited submission.
 3. **Kyoungmin Roh**, Seong-je Cho, Martin Kayondo, and Jiwon Seo. Manuscript on confidential computing for software-defined vehicles. In preparation.
 
-## Patent
+## Test scores
 
-1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Yoonho Choi. “A Malware Detection Method Combining Clustering and Supervised Learning Models.” Korean Patent Application No. **10-2025-0098855**, filed 2025.
-
-## Presentations
-
-- “A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems.” Paper presentation, **KCC 2026**, Jeju, Republic of Korea, Jun 2026.
-- “ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts.” Paper presentation, **SAC 2026**, Thessaloniki, Greece, Mar 2026.
-- “Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection.” Paper presentation, **KSC 2025**, Yeosu, Republic of Korea, Dec 2025.
-- “Android Malware Detection Using Co-occurrence Graphs of APIs and Louvain Method for Community Detection.” Paper presentation, **WDSC 2025**, Jeju, Republic of Korea, Aug 2025.
-
-## Teaching experience
-
-### Programming Education Assistant
-**Volunteer Instructor** · Republic of Korea · Oct 2022
-
-- To help middle- and high-school students build foundational programming skills, taught Python and C and designed beginner exercises on logic, loops, and debugging, giving learners structured hands-on practice.
-
-## Funded research projects
-
-### Future Policing Challenge Technology Development
-**Undergraduate Researcher** · Dankook University · Apr 2026 – Jul 2026  
-Commissioned by: Korean National Police Agency and Ministry of Science and ICT  
-Project: *Development of a Reconfigurable Vehicle Living Lab and Digital Forensic Tools for Advanced Mobility*
-
-- To support a reconfigurable vehicle-forensics testbed, implemented front-end components, reviewed relevant systems literature, and contributed technical material to the project proposal, delivering an initial interface and documented design inputs for the research team.
-
-### Intelligent Autonomous Building Energy and Environmental Management System
-**Undergraduate Researcher** · Dankook University · Oct 2025 – Jul 2026  
-Commissioned by: Korea Energy Technology Evaluation and Planning
-
-- To connect mobile-platform AI security research with a funded intelligent-building program, conducted experiments and contributed to peer-reviewed manuscript preparation, producing research outputs within the laboratory's concept-drift workstream.
-
-### Effective and Intelligent Framework for Mobile Platform-Based Vehicle Forensics
-**Undergraduate Researcher** · Dankook University · Oct 2025 – Jul 2026  
-Commissioned by: National Research Foundation of Korea and Ministry of Science and ICT
-
-- To advance data-driven vehicle-forensics research, contributed literature analysis, experimental work, and peer-reviewed writing on mobile-platform AI security, supporting the laboratory's publication pipeline.
-
-## Technical and academic projects
-
-### [Safe LiDAR-IVI Embedded Vehicle System](https://github.com/rohkyoungmin/lidar_car_project)
-*Mar 2026 – Jun 2026*
-
-- To prototype safe low-speed vehicle control with live environmental sensing, integrated a Raspberry Pi 4, Arduino Uno, RPLIDAR C1, and 4WD differential-drive platform; implemented per-wheel PWM calibration, USB-serial motor control, individual wheel diagnostics, and browser-based manual driving.
-- Processed ROS2 Humble `/scan` data into a live LiDAR view with directional obstacle indicators, producing an end-to-end IVI demonstrator that connected sensing, diagnostics, and actuation.
-
-### [Multi-Agent C/C++ Vulnerability Analysis](https://github.com/rohkyoungmin/AISECApp)
-*Mar 2026 – May 2026*
-
-- To reduce unsupported findings in LLM-assisted source auditing, designed a multi-stage pipeline that retrieved NVD candidates, mapped CVEs to source evidence, generated findings, and deterministically rejected weakly grounded outputs.
-- Built ZIP ingestion, a web interface, and JSON/Markdown/PDF reporting; evaluated the system on 139 Magma cases and 27 robustness tests, yielding a reproducible benchmark and report-generation workflow.
-
-### [AI-Powered Document Summarization Web Application](https://github.com/DKU-OSS-development/Backend-API)
-*Sep 2025 – Dec 2025*
-
-- To provide a deployable document-summarization workflow, developed a FastAPI backend for authentication, project management, PDF/TXT ingestion, Claude API summarization, SQLite persistence, API documentation, and Docker deployment.
-
-### [Split-Kyber for ARM TrustZone-A](https://github.com/Cyber-Security-Contest/Kyber-Split)
-*Oct 2025 – Nov 2025*
-
-- To isolate cryptographic secrets without moving the complete ML-KEM implementation into the Secure World, implemented a TrustZone-A split-execution framework and documented its security/performance tradeoffs; the project won first place in the Cyber Security Contest research-paper track.
-
-### [DDobak: LLM-Based Speech and Hearing Therapy Application](https://github.com/rohkyoungmin/dku_startup_hackathon)
-*Aug 2025 – Sep 2025*
-
-- To support pronunciation practice for users with hearing impairments, led product ideation and UI/UX design and built a Flutter prototype with LLM-assisted correction, earning third place at the Dankook Startup Hackathon.
-
-### [LV.0: LLM Vulnerability Zero](https://github.com/Gaurdians-of-the-Open-Source/Backend)
-*Jul 2025 – Aug 2025*
-
-- To make open-source vulnerability triage more repeatable, led the backend and AI design of a Flask/FastAPI system combining static analysis, GitHub workflow automation, NLP-based risk summaries, and automated security reporting.
-
-### [ASX: Android API Sequence Extractor](https://github.com/rohkyoungmin/api-sequence-extractor-gui)
-*Jun 2025 – Jul 2025*
-
-- To prepare DEX programs for sequence-based malware learning, designed a static-analysis pipeline that extracted API-level call sequences and packaged it in a cross-platform Electron GUI, enabling repeatable dataset generation for multi-instance learning workflows.
-
-### Qrust: Secure QR and AI Phishing Detector ([backend](https://github.com/dku-capstone/QRust-BE) / [AI](https://github.com/dku-capstone/QRust-AI))
-*May 2025 – Jun 2025*
-
-- To address both QR-content tampering and malicious destinations, implemented HMAC-signed QR generation and a Flask-based URL classifier in a mobile detection workflow; the project received the Capstone Festival Audience Choice Award and became the undergraduate thesis project.
-
-### [Smart Greenhouse AI](https://github.com/rohkyoungmin/smart-greenhouse-disease-detector)
-*Dec 2024*
-
-- To detect crop pests from limited labeled imagery, trained a transfer-learning CNN with augmentation and packaged the workflow as an IoT-ready Google Colab pipeline for greenhouse monitoring experiments.
-
-### [Post-Quantum Signature System](https://github.com/rohkyoungmin/Post-Quantum-Signature-System)
-*Aug 2023 – Sep 2023*
-
-- To demonstrate hash-based signatures and one-time-key constraints, implemented Lamport OTS with Merkle-tree aggregation in Python and verified signing, verification, and key management; the prototype won first place in the Cryptography Application Competition.
+- **TOEFL:** Reading 5.5; Listening 5.0; Writing 5.5; Speaking 4.0; Overall 5.0 (C1).
 
 ## Honors and awards
 
@@ -242,66 +125,14 @@ Commissioned by: National Research Foundation of Korea and Ministry of Science a
 - **Specialized Project Scholarship** · Dec 2022 · Dankook University, Department of Industrial Security. Recognized high performance in a department-designated project.
 - **Admission Scholarship** · Mar 2021 · Dankook University, National Program of Excellence in Software. Entrance scholarship awarded through the university's software-excellence program.
 
-## Additional coursework and training
+## Education
 
-### Chinese Native-Speaker Tutoring Program
-**Participant** · Dankook University · Sep 2025 – Dec 2025
+### Dankook University
+**B.E. Candidate in Cybersecurity** · Yongin, Republic of Korea · Mar 2021 – Expected Feb 2027
 
-- To improve practical cross-cultural communication, completed weekly one-on-one sessions with a native Chinese instructor, strengthening speaking and listening through sustained conversational practice.
-
-### LG Aimers AI Bootcamp
-**Participant** · LG AI Research · Jun 2023 – Jul 2023
-
-- To solve a smart-factory classification task after intensive coursework in machine learning, deep learning, linear algebra, and statistics, led model training, evaluation design, and the final team presentation, completing the applied AI project.
-
-## Extracurricular activities
-
-### [AEGIS Cybersecurity Club](https://dkuaegis.org/)
-**Member** · Dankook University · Jul 2025 – Present
-
-- To strengthen practical security skills alongside academic research, participate in weekly CTF exercises and technical seminars spanning cryptography, reversing, and systems security, maintaining regular hands-on practice across core security domains.
-
-### [OSINT Team](https://www.osintteam.com/)
-**Contributing Writer** · Remote · Mar 2022 – Present
-
-- To make security concepts accessible to a broader audience, author cybersecurity-awareness and technical articles for a global OSINT education platform, translating technical topics into practical guidance for non-specialist readers.
-
-### [RubiyaLab CTF Team](https://rubiyalab.team/)
-**Member** · Republic of Korea · Jul 2025 – Nov 2025
-
-- To practice adversarial problem solving under time constraints, contributed to cryptography and reverse-engineering challenges with a top-ranked Korean CTF team, applying security knowledge in international competitions.
-
-### [Turing Crypto Club](https://www.instagram.com/dku_turing/)
-**Member** · Dankook University · May 2022 – Dec 2022
-
-- To build an applied cryptography foundation, studied core constructions with peers and delivered seminar presentations, which informed the later post-quantum signature prototype.
-
-## Volunteer experience
-
-### Rural Volunteer Service
-**Volunteer — 21 hours** · Buyeo County, Republic of Korea · Sep 2025
-
-- To support seasonal agricultural work, assisted with greenhouse maintenance and chestnut harvesting through a national rural-volunteering initiative, completing 21 service hours.
-
-## Professional affiliations
-
-- Korean Institute of Information Scientists and Engineers (KIISE) — Member.
-- Korean Defense Veterans Association (KDVA) — Member.
-
-## Test score
-
-- **TOEFL:** Reading 5.5; Listening 5.0; Writing 5.5; Speaking 4.0; Overall 5.0 (C1).
-
-## Languages
-
-- **Korean:** Native.
-- **English:** Fluent.
-- **Japanese:** Conversational; limited reading and writing.
-- **Chinese:** Basic; limited listening and speaking.
-
-## References
-
-Available upon request.
+- **GPA:** 3.20/4.50.
+- **Undergraduate thesis:** “Qrust: AI-Powered QR Phishing Detection and Secure QR Generation.” [Project repositories](https://github.com/dku-capstone).
+- **Selected coursework:** Calculus I–II, Linear Algebra, Numerical Analysis, Probability and Statistics, Statistics, and Discrete Mathematics.
 
 ---
 
