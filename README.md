@@ -24,15 +24,15 @@
 ## Education
 
 ### Dankook University
-**B.E. Candidate in Cybersecurity** · Yongin, Republic of Korea · Mar 2021 – Expected Feb 2027
+**Bachelors of Engineering in Industrial Security** · Yongin, Republic of Korea · Mar 2021 – Expected Feb 2027
 
-- **GPA:** 3.20/4.50.
+- **GPA:** 3.20/4.50 (grade percentage: 87/100)
 - **Undergraduate thesis:** “Qrust: AI-Powered QR Phishing Detection and Secure QR Generation.” [Project repositories](https://github.com/dku-capstone).
-- **Selected coursework:** Calculus I–II, Linear Algebra, Numerical Analysis, Probability and Statistics, Statistics, and Discrete Mathematics.
+- **Selected coursework:** Artificial Intelligence and Information Security, Digital Forensics, Reverse Engineering
 
 ## Professional experience
 
-### Seoul National University · [Security Optimization Research Lab](https://sor.snu.ac.kr/)
+### Seoul National University | [Security Optimization Research Lab](https://sor.snu.ac.kr/)
 **Research Intern** · Seoul, Republic of Korea · Jun 2026 – Present  
 Supervisor: Prof. Yunheung Paek; Mentor: Martin Kayondo
 
@@ -45,7 +45,7 @@ Supervisor: Prof. Yunheung Paek; Mentor: Martin Kayondo
 
 - To clarify poorly defined attack surfaces in embodied AI, reviewed RFM and VLA execution pipelines and mapped vulnerabilities across multimodal inputs, model reasoning, tool interfaces, and closed-loop control, creating a structured basis for follow-on experimental work.
 
-### Dankook University · [Computer Security and Operating Systems Lab](https://securesw.dankook.ac.kr/index.html)
+### Dankook University | [Computer Security and Operating Systems Lab](https://securesw.dankook.ac.kr/index.html)
 **Undergraduate Research Assistant** · Yongin, Republic of Korea · Mar 2025 – Jul 2026  
 Supervisor: Prof. Seong-je Cho
 
@@ -59,7 +59,7 @@ Supervisor: Prof. Seong-je Cho
 - To reduce the trusted computing base of ML-KEM on constrained TrustZone-A devices, designed and implemented a split-execution architecture that kept secret-dependent operations in the Secure World while offloading public computation to the Normal World.
 - Evaluated trusted-code size, secure-monitor-call overhead, and end-to-end latency; the resulting work received a KCC 2026 Distinguished Paper Award and first place in Dankook University's Cyber Security Contest research-paper track.
 
-### Indiana University Bloomington · [CPS Security Lab](https://kimhyungsub.github.io/)
+### Indiana University Bloomington | [CPS Security Lab](https://kimhyungsub.github.io/)
 **Research Intern** · Bloomington, IN, USA (Remote) · Oct 2025 – Jan 2026  
 Supervisor: Prof. Hyungsub Kim
 
@@ -103,9 +103,11 @@ Supervisor: Prof. Hyungsub Kim
 
 ### Manuscripts and ongoing writing
 
-1. **Kyoungmin Roh**, Nahee Kwon, Seong-je Cho, Kyoungwon Suh, and Hyoil Han. “Taming Concept Drift in Android Malware Detection via Semantic Clustering.” In revision following *ACSAC 2026* Round 3 review.
-2. Nahee Kwon, **Kyoungmin Roh**, and Seong-je Cho. “Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection.” Submitted to the *Journal of KIISE*. Invited submission.
-3. **Kyoungmin Roh**, Seong-je Cho, Martin Kayondo, and Jiwon Seo. Manuscript on confidential computing for software-defined vehicles. In preparation.
+1. Nahee Kwon, **Kyoungmin Roh**, and Seong-je Cho. “Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection.” Submitted to the *Journal of KIISE*. Invited submission.
+2. **Kyoungmin Roh**, Seong-je Cho, Martin Kayondo, and Jiwon Seo. Manuscript on confidential computing for software-defined vehicles. In preparation.
+
+## Patent
+1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Yoonho Choi. "A Malware Detection Model Combining Clustering and Supervised Learning Models," Korean Patent Application No. 10-2025-0098855. Filed.
 
 ## Honors and awards
 
