@@ -146,9 +146,7 @@ Supervisor: Prof. Hyungsub Kim
 
 ## Test scores
 
-| Test | Reading | Listening | Writing | Speaking | Overall |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| TOEFL | 5.5 | 5.0 | 5.5 | 4.0 | **5.0 (C1)** |
+- TOEFL: Reading 5.5, Listening 5.0, Writing 5.5, Speaking 5.0, Overall 5.0 (100); CEFR C1
 
 ---
 
