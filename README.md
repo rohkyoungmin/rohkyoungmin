@@ -105,7 +105,8 @@ Supervisor: Prof. Hyungsub Kim
 
 ### Additional research publication
 
-1. **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon. “[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20%EA%B8%B0%EB%B0%98%20%EA%B2%BD%EB%9F%89%20%EB%B9%84%EB%B0%80%20%EB%B6%84%EB%A6%AC%ED%98%95%20%EC%96%91%EC%9E%90%EB%82%B4%EC%84%B1%20%EC%95%94%ED%98%B8%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.pdf).” *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec 2025. **First Place Award**.
+1. **Kyoungmin Roh**, Nahee Kwon, Bogyeom Kim, and Subin Jeon. “[A Lightweight Secret-Isolated Post-Quantum Cryptographic Architecture for ARM TrustZone](https://github.com/rohkyoungmin/Research-Papers/blob/main/Cyber%20Security%20Contest%202025/ARM%20TrustZone%20%EA%B8%B0%EB%B0%98%20%EA%B2%BD%EB%9F%89%20%EB%B9%84%EB%B0%80%20%EB%B6%84%EB%A6%AC%ED%98%95%20%EC%96%91%EC%9E%90%EB%82%B4%EC%84%B1%20%EC%95%94%ED%98%B8%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.pdf).” *Cyber Security Contest*, Department of Cybersecurity, Dankook University, Dec 2025.   
+   ![1st Place Award](https://img.shields.io/badge/1st_Place_Award-916B18?style=flat-square)
 
 ### Manuscripts and ongoing writing
 
@@ -148,12 +149,12 @@ Supervisor: Prof. Hyungsub Kim
 
 | Date | Award and recognition |
 | --- | --- |
-| Jun 2026 | **KCC 2026 Distinguished Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored the paper on ML-KEM partitioning for embedded TrustZone-A<br>![Distinguished Paper](https://img.shields.io/badge/Distinguished_Paper-916B18?style=flat-square) |
+| Jun 2026 | **KCC 2026 Distinguished Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored the paper on ML-KEM partitioning for embedded TrustZone-A |
 | Dec 2025 | **Cyber Security Contest, First Place**<br>Dankook University, Department of Cybersecurity · Won the research-paper track for split ML-KEM on TrustZone-A |
-| Dec 2025 | **KSC 2025 Outstanding Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored retraining-free Android malware detection with Louvain communities<br>![Outstanding Paper](https://img.shields.io/badge/Outstanding_Paper-916B18?style=flat-square) |
+| Dec 2025 | **KSC 2025 Outstanding Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored retraining-free Android malware detection with Louvain communities |
 | Dec 2025 | **Capstone Festival Audience Choice Award**<br>Dankook University, National Center of Excellence in Software · Audience-selected award for the Qrust secure-QR phishing detector |
 | Sep 2025 | **Dankook Startup Hackathon, 3rd Place**<br>Dankook University, National Center of Excellence in Software · Third place for the accessibility-focused DDobak speech-therapy prototype |
-| Aug 2025 | **WDSC 2025 Outstanding Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored Android malware detection using API co-occurrence communities<br>![Outstanding Paper](https://img.shields.io/badge/Outstanding_Paper-916B18?style=flat-square) |
+| Aug 2025 | **WDSC 2025 Outstanding Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored Android malware detection using API co-occurrence communities |
 | Sep 2023 | **Cryptography Application Competition, 1st Place**<br>Dankook University, Department of Cybersecurity · First place for a Lamport OTS and Merkle-tree signature prototype |
 
 ### Military and leadership honors
