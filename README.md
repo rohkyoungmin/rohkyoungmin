@@ -5,12 +5,6 @@
 </p>
 
 <p align="center">
-  I build machine learning models and study the systems that make them trustworthy.<br>
-  My work spans Android malware detection under concept drift, post-quantum cryptography in TEEs, and confidential computing for software-defined vehicles.<br>
-  Research intern at Seoul National University; first-author publications in CMES and ACM SAC.
-</p>
-
-<p align="center">
   <a href="mailto:imsie1@dankook.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="28"></a>
   <a href="https://github.com/rohkyoungmin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="28"></a>
   <a href="https://www.linkedin.com/in/kyoungmin-roh-88bb09343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" height="28"></a>
@@ -26,6 +20,12 @@
   <a href="#honors-and-awards"><img src="https://img.shields.io/badge/Honors-243B53?style=for-the-badge" alt="Honors" height="24"></a>
   <a href="#scholarships"><img src="https://img.shields.io/badge/Scholarships-243B53?style=for-the-badge" alt="Scholarships" height="24"></a>
   <a href="#test-scores"><img src="https://img.shields.io/badge/Test_Scores-243B53?style=for-the-badge" alt="Test Scores" height="24"></a>
+</p>
+
+<p align="center">
+  I build machine learning models and study the systems that make them trustworthy.<br>
+  My work spans Android malware detection under concept drift, post-quantum cryptography in TEEs, and confidential computing for software-defined vehicles.<br>
+  Research intern at Seoul National University; first-author publications in CMES and ACM SAC.
 </p>
 
 ## Education
