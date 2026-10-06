@@ -204,19 +204,11 @@ Supervisor: Prof. Hyungsub Kim
 | --- | --- |
 | Aug 2026 | **Danwoo Academic Merit Scholarship**<br>Dankook University · Academic performance ranking in the top 6% of the department |
 | Aug 2026 | **Academic Research Scholarship**<br>Dankook University, National Center of Excellence in Software · Sustained undergraduate research and scholarly output |
-
-<details>
-<summary><strong>Earlier scholarships (2021–2025)</strong></summary>
-
-| Date | Scholarship and basis |
-| --- | --- |
 | Dec 2025 | **Specialized Project Scholarship**<br>Dankook University, Department of Cybersecurity · High performance in a department-designated security project |
 | Dec 2025 | **Academic Research Scholarship**<br>Dankook University, National Center of Excellence in Software · Undergraduate research performance and publication activity |
 | Dec 2022 | **Special Academic Merit Scholarship**<br>Dankook University, Department of Industrial Security · Strong academic performance in the major |
 | Dec 2022 | **Specialized Project Scholarship**<br>Dankook University, Department of Industrial Security · High performance in a department-designated project |
 | Mar 2021 | **Admission Scholarship**<br>Dankook University, National Program of Excellence in Software · Entrance scholarship through the university's software-excellence program |
-
-</details>
 
 ## Test scores
 
