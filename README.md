@@ -16,7 +16,7 @@
   <a href="#education">Education</a> /
   <a href="#professional-experience">Experience</a> /
   <a href="#publications">Publications</a> /
-  <a href="#public-repositories">Repositories</a> /
+  <a href="#projects">Projects</a> /
   <a href="#honors-and-awards">Honors</a> /
   <a href="#scholarships">Scholarships</a> /
   <a href="#test-scores">Test Scores</a>
@@ -79,11 +79,11 @@ Supervisor: Prof. Hyungsub Kim
 
 ### International journal article
 
-1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, Youngsup Hwang, and Dongjae Kim. “[SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift](https://www.sciencedirect.com/org/science/article/pii/S1526149226001244).” *Computer Modeling in Engineering & Sciences (CMES)*, Apr 2026. **SCIE Q1**.
+1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, Youngsup Hwang, and Dongjae Kim. “[SCAN: Structural Clustering with Adaptive Thresholds for Intelligent and Robust Android Malware Detection under Concept Drift](https://www.sciencedirect.com/org/science/article/pii/S1526149226001244).” *Computer Modeling in Engineering & Sciences (CMES)*, Apr 2026. ![SCIE Q1](https://img.shields.io/badge/SCIE_Q1-1E40AF?style=flat-square). [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/SCAN)
 
 ### International conference papers
 
-1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Youngsup Hwang. “[ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts](https://dl.acm.org/doi/10.1145/3748522.3779797).” *Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar 2026.
+1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Youngsup Hwang. “[ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts](https://dl.acm.org/doi/10.1145/3748522.3779797).” *Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar 2026. [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ALARM)
 2. Nahee Kwon, **Kyoungmin Roh**, Youngsup Hwang, Seong-je Cho, and Boojoong Kang. “C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection.” *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT 2026)*, Porto, Portugal, Jul 2026.
 
 ### Domestic journal article
@@ -92,10 +92,10 @@ Supervisor: Prof. Hyungsub Kim
 
 ### Domestic conference and workshop papers
 
-1. **Kyoungmin Roh**<sup>†</sup>, Nahee Kwon<sup>†</sup>, Suhyeon Park, and Seong-je Cho. “A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems.” *Korea Computer Congress (KCC 2026)*, Jeju, Republic of Korea, Jun 2026. **Distinguished Paper Award**.
+1. **Kyoungmin Roh**<sup>†</sup>, Nahee Kwon<sup>†</sup>, Suhyeon Park, and Seong-je Cho. “A Lightweight ML-KEM Architecture via Secret-Dependency-Based Partitioning for Embedded TrustZone-A Systems.” *Korea Computer Congress (KCC 2026)*, Jeju, Republic of Korea, Jun 2026. ![Distinguished Paper Award](https://img.shields.io/badge/Distinguished_Paper_Award-916B18?style=flat-square).
 2. Nahee Kwon, **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho. “SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection.” *Korea Computer Congress (KCC 2026)*, Jeju, Republic of Korea, Jun 2026.
-3. **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho. “[Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577588).” *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec 2025. **Best Paper Award**.
-4. **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seong-je Cho. “[Android Malware Detection Using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf).” *Workshop on Dependable and Secure Computing (WDSC 2025)*, Jeju, Republic of Korea, Aug 2025. **Best Paper Award**.
+3. **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho. “[Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577588).” *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec 2025. ![Best Paper Award](https://img.shields.io/badge/Best_Paper_Award-916B18?style=flat-square).
+4. **Kyoungmin Roh**, Seungmin Lee, Yudam Kim, Seokhyun Ahn, and Seong-je Cho. “[Android Malware Detection Using Co-occurrence Graphs of APIs and Louvain Method for Community Detection](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/API%EB%93%A4%EC%9D%98%20%EB%8F%99%EC%8B%9C%20%EC%B6%9C%ED%98%84%20%EA%B7%B8%EB%9E%98%ED%94%84%EC%99%80%20%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%20%ED%83%90%EC%A7%80%EC%9A%A9%20Louvain%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%EC%95%85%EC%84%B1%20%EC%95%B1%20%ED%83%90%EC%A7%80/WDSC2025_paper_6.pdf).” *Workshop on Dependable and Secure Computing (WDSC 2025)*, Jeju, Republic of Korea, Aug 2025. ![Best Paper Award](https://img.shields.io/badge/Best_Paper_Award-916B18?style=flat-square).
 5. Seungmin Lee, **Kyoungmin Roh**, Jiheon Jung, Suhyeon Park, and Seong-je Cho. “[Classifying File Fragment Types for IVI System Forensics](https://github.com/rohkyoungmin/Research-Papers/blob/main/WDSC/IVI%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%ED%8F%AC%EB%A0%8C%EC%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%8C%8C%EC%9D%BC%20%ED%8C%8C%ED%8E%B8%20%EC%9C%A0%ED%98%95%20%EB%B6%84%EB%A5%98/Classifying%20File%20Fragment%20Types%20for%20IVI%20System%20Forensics.pdf).” *Workshop on Dependable and Secure Computing (WDSC 2025)*, Jeju, Republic of Korea, Aug 2025.
 
 ### Additional research publication
@@ -107,55 +107,38 @@ Supervisor: Prof. Hyungsub Kim
 1. Nahee Kwon, **Kyoungmin Roh**, and Seong-je Cho. “Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection.” Submitted to the *Journal of KIISE*. Invited submission.
 2. **Kyoungmin Roh**, Seong-je Cho, Martin Kayondo, and Jiwon Seo. Manuscript on confidential computing for software-defined vehicles. In preparation.
 
-## Public repositories
-
-All 26 public repositories owned by this account, including 5 forks. Private repositories are excluded. **Fork** identifies a repository forked from another project.
+## Projects
 
 ### Research & security
 
-| Repository | Overview | Type | Link |
-| --- | --- | --- | --- |
-| **SCAN** | Android malware detection using structural clustering and adaptive thresholds (CMES 2026). | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/SCAN) |
-| **ALARM** | Android malware detection using Leiden communities and mixture of experts (ACM SAC 2026). | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ALARM) |
-| **ACSAC_ARTIFACT** | Experiment code and results for semantic cluster-guided Android malware drift detection. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ACSAC_ARTIFACT) |
-| **MLKEM-Split** | ML-KEM partitioning prototype with information-flow control and TEE secret isolation. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/MLKEM-Split) |
-| **SplitKEM** | Post-quantum cryptography for OP-TEE; initial project repository. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/SplitKEM) |
-| **Post-Quantum-Signature-System** | Python prototype combining Lamport one-time signatures and Merkle trees. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/Post-Quantum-Signature-System) |
-| **api-sequence-extractor-gui** | Method-level Android API sequence extraction with Python and an Electron GUI. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/api-sequence-extractor-gui) |
-| **AISECApp** | C/C++ vulnerability analysis agents with NVD CVE mapping and deterministic evidence verification. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/AISECApp) |
-| **Research-Papers** | Archive of research papers and publication materials. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/Research-Papers) |
+| Project | Overview | Link |
+| --- | --- | --- |
+| **SCAN** | Android malware detection using structural clustering and adaptive thresholds (CMES 2026).<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/SCAN) |
+| **ALARM** | Android malware detection using Leiden communities and mixture of experts (ACM SAC 2026).<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Mixture of Experts](https://img.shields.io/badge/Mixture_of_Experts-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ALARM) |
+| **ACSAC_ARTIFACT** | Experiment code and results for semantic cluster-guided Android malware drift detection.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Concept Drift](https://img.shields.io/badge/Concept_Drift-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ACSAC_ARTIFACT) |
+| **MLKEM-Split** | ML-KEM partitioning prototype with information-flow control and TEE secret isolation.<br>![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![TEE](https://img.shields.io/badge/TEE-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/MLKEM-Split) |
+| **Post-Quantum-Signature-System** | Python prototype combining Lamport one-time signatures and Merkle trees.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Post-Quantum Cryptography](https://img.shields.io/badge/Post--Quantum_Cryptography-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/Post-Quantum-Signature-System) |
+| **api-sequence-extractor-gui** | Method-level Android API sequence extraction with Python and an Electron GUI.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/api-sequence-extractor-gui) |
+| **AISECApp** | C/C++ vulnerability analysis agents with NVD CVE mapping and deterministic evidence verification.<br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LLM Agents](https://img.shields.io/badge/LLM_Agents-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/AISECApp) |
 
 ### Applications, robotics & utilities
 
-| Repository | Overview | Type | Link |
-| --- | --- | --- | --- |
-| **QRust-AI** | Qrust model training, URL feature engineering, and Flask API. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/QRust-AI) |
-| **QRust-FE** | Flutter frontend for the Qrust secure-QR project. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/QRust-FE) |
-| **dku_startup_hackathon** | Ttobak Ttobak: AI-assisted pronunciation training and visual feedback prototype. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/dku_startup_hackathon) |
-| **lidar_car_project** | ROS 2 robot car with web control, live LiDAR scans, and obstacle detection. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/lidar_car_project) |
-| **smart-greenhouse-disease-detector** | EfficientNetB0-based crop leaf disease classification. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/smart-greenhouse-disease-detector) |
-| **forensic_tool** | React and TypeScript frontend for forensic case management and timelines. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/forensic_tool) |
-| **web_crawling** | Product review collection with sentiment and emotion keyword classification. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/web_crawling) |
-| **image-expander** | Tkinter and Pillow GUI for adding transparent padding to PNG images. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/image-expander) |
-| **ico_converter** | CLI for converting PNG and SVG images into multi-resolution ICO files. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ico_converter) |
+| Project | Overview | Link |
+| --- | --- | --- |
+| **QRust-AI** | Qrust model training, URL feature engineering, and Flask API.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-30343B?style=flat-square&logo=flask&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/QRust-AI) |
+| **QRust-FE** | Flutter frontend for the Qrust secure-QR project.<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/QRust-FE) |
+| **dku_startup_hackathon** | Ttobak Ttobak: AI-assisted pronunciation training and visual feedback prototype.<br>![Accessibility](https://img.shields.io/badge/Accessibility-475569?style=flat-square) ![AI](https://img.shields.io/badge/AI-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/dku_startup_hackathon) |
+| **lidar_car_project** | ROS 2 robot car with web control, live LiDAR scans, and obstacle detection.<br>![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/lidar_car_project) |
+| **smart-greenhouse-disease-detector** | EfficientNetB0-based crop leaf disease classification.<br>![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![EfficientNet](https://img.shields.io/badge/EfficientNet-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/smart-greenhouse-disease-detector) |
+| **web_crawling** | Product review collection with sentiment and emotion keyword classification.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43802A?style=flat-square&logo=selenium&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/web_crawling) |
+| **image-expander** | Tkinter and Pillow GUI for adding transparent padding to PNG images.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/image-expander) |
+| **ico_converter** | CLI for converting PNG and SVG images into multi-resolution ICO files.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Pillow](https://img.shields.io/badge/Pillow-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ico_converter) |
 
-### Portfolio & profile
+### Portfolio
 
-| Repository | Overview | Type | Link |
-| --- | --- | --- | --- |
-| **rohkyoungmin** | GitHub profile README and profile header assets. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/rohkyoungmin) |
-| **rohkyoungmin.github.io** | Personal portfolio website covering research, experience, and projects. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/rohkyoungmin.github.io) |
-| **kyoungminroh.github.io** | Bilingual academic portfolio with publication and CV materials. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/kyoungminroh.github.io) |
-| **CV** | Curriculum vitae and professional document repository. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/CV) |
-| **my-pages** | Empty repository reserved for Pages-related work. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/my-pages) |
-
-### Learning resources
-
-| Repository | Overview | Type | Link |
-| --- | --- | --- | --- |
-| **open-source-cs** | Collection of free university courses for a computer science curriculum. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/open-source-cs) |
-| **dive-into-llms** | Hands-on LLM tutorials and programming exercises. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/dive-into-llms) |
-| **math-science-video-lectures** | Collection of mathematics and science video lecture courses. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/math-science-video-lectures) |
+| Project | Overview | Link |
+| --- | --- | --- |
+| **kyoungminroh.github.io** | Bilingual academic portfolio with publication and CV materials.<br>![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-665900?style=flat-square&logo=javascript&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/kyoungminroh.github.io) |
 
 ## Patent
 1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Yoonho Choi. "A Malware Detection Model Combining Clustering and Supervised Learning Models," Korean Patent Application No. 10-2025-0098855. Filed.
@@ -166,12 +149,12 @@ All 26 public repositories owned by this account, including 5 forks. Private rep
 
 | Date | Award and recognition |
 | --- | --- |
-| Jun 2026 | **KCC 2026 Distinguished Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored the paper on ML-KEM partitioning for embedded TrustZone-A |
+| Jun 2026 | **KCC 2026 Distinguished Paper Award** ![Distinguished Paper](https://img.shields.io/badge/Distinguished_Paper-916B18?style=flat-square)<br>Korean Institute of Information Scientists and Engineers · Honored the paper on ML-KEM partitioning for embedded TrustZone-A |
 | Dec 2025 | **Cyber Security Contest, First Place**<br>Dankook University, Department of Cybersecurity · Won the research-paper track for split ML-KEM on TrustZone-A |
-| Dec 2025 | **KSC 2025 Best Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored retraining-free Android malware detection with Louvain communities |
+| Dec 2025 | **KSC 2025 Best Paper Award** ![Best Paper](https://img.shields.io/badge/Best_Paper-916B18?style=flat-square)<br>Korean Institute of Information Scientists and Engineers · Honored retraining-free Android malware detection with Louvain communities |
 | Dec 2025 | **Capstone Festival Audience Choice Award**<br>Dankook University, National Center of Excellence in Software · Audience-selected award for the Qrust secure-QR phishing detector |
 | Sep 2025 | **Dankook Startup Hackathon, 3rd Place**<br>Dankook University, National Center of Excellence in Software · Third place for the accessibility-focused DDobak speech-therapy prototype |
-| Aug 2025 | **WDSC 2025 Best Paper Award**<br>Korean Institute of Information Scientists and Engineers · Honored Android malware detection using API co-occurrence communities |
+| Aug 2025 | **WDSC 2025 Best Paper Award** ![Best Paper](https://img.shields.io/badge/Best_Paper-916B18?style=flat-square)<br>Korean Institute of Information Scientists and Engineers · Honored Android malware detection using API co-occurrence communities |
 | Sep 2023 | **Cryptography Application Competition, 1st Place**<br>Dankook University, Department of Cybersecurity · First place for a Lamport OTS and Merkle-tree signature prototype |
 
 ### Military and leadership honors
