@@ -5,17 +5,18 @@
 </p>
 
 <p align="center">
-  <a href="mailto:imsie1@dankook.ac.kr">Email</a> &nbsp;|&nbsp;
-  <a href="https://github.com/rohkyoungmin">GitHub</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/kyoungmin-roh-88bb09343/">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://scholar.google.com/citations?user=6O2OMlwAAAAJ">Google Scholar</a> &nbsp;|&nbsp;
-  <a href="https://orcid.org/0009-0005-5060-1255">ORCID</a>
+  <a href="mailto:imsie1@dankook.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="28"></a>
+  <a href="https://github.com/rohkyoungmin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="28"></a>
+  <a href="https://www.linkedin.com/in/kyoungmin-roh-88bb09343/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" height="28"></a>
+  <a href="https://scholar.google.com/citations?user=6O2OMlwAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&amp;logo=googlescholar&amp;logoColor=white" alt="Google Scholar" height="28"></a>
+  <a href="https://orcid.org/0009-0005-5060-1255"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&amp;logo=orcid&amp;logoColor=white" alt="ORCID" height="28"></a>
 </p>
 
 <p align="center">
   <a href="#education">Education</a> /
   <a href="#professional-experience">Experience</a> /
   <a href="#publications">Publications</a> /
+  <a href="#public-repositories">Repositories</a> /
   <a href="#honors-and-awards">Honors</a> /
   <a href="#scholarships">Scholarships</a> /
   <a href="#test-scores">Test Scores</a>
@@ -105,6 +106,56 @@ Supervisor: Prof. Hyungsub Kim
 
 1. Nahee Kwon, **Kyoungmin Roh**, and Seong-je Cho. “Louvain Community Structure Analysis-Based Auto-XAI Framework for Android Malware Detection.” Submitted to the *Journal of KIISE*. Invited submission.
 2. **Kyoungmin Roh**, Seong-je Cho, Martin Kayondo, and Jiwon Seo. Manuscript on confidential computing for software-defined vehicles. In preparation.
+
+## Public repositories
+
+All 26 public repositories owned by this account, including 5 forks. Private repositories are excluded. **Fork** identifies a repository forked from another project.
+
+### Research & security
+
+| Repository | Overview | Type | Link |
+| --- | --- | --- | --- |
+| **SCAN** | Android malware detection using structural clustering and adaptive thresholds (CMES 2026). | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/SCAN) |
+| **ALARM** | Android malware detection using Leiden communities and mixture of experts (ACM SAC 2026). | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ALARM) |
+| **ACSAC_ARTIFACT** | Experiment code and results for semantic cluster-guided Android malware drift detection. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ACSAC_ARTIFACT) |
+| **MLKEM-Split** | ML-KEM partitioning prototype with information-flow control and TEE secret isolation. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/MLKEM-Split) |
+| **SplitKEM** | Post-quantum cryptography for OP-TEE; initial project repository. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/SplitKEM) |
+| **Post-Quantum-Signature-System** | Python prototype combining Lamport one-time signatures and Merkle trees. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/Post-Quantum-Signature-System) |
+| **api-sequence-extractor-gui** | Method-level Android API sequence extraction with Python and an Electron GUI. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/api-sequence-extractor-gui) |
+| **AISECApp** | C/C++ vulnerability analysis agents with NVD CVE mapping and deterministic evidence verification. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/AISECApp) |
+| **Research-Papers** | Archive of research papers and publication materials. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/Research-Papers) |
+
+### Applications, robotics & utilities
+
+| Repository | Overview | Type | Link |
+| --- | --- | --- | --- |
+| **QRust-AI** | Qrust model training, URL feature engineering, and Flask API. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/QRust-AI) |
+| **QRust-FE** | Flutter frontend for the Qrust secure-QR project. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/QRust-FE) |
+| **dku_startup_hackathon** | Ttobak Ttobak: AI-assisted pronunciation training and visual feedback prototype. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/dku_startup_hackathon) |
+| **lidar_car_project** | ROS 2 robot car with web control, live LiDAR scans, and obstacle detection. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/lidar_car_project) |
+| **smart-greenhouse-disease-detector** | EfficientNetB0-based crop leaf disease classification. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/smart-greenhouse-disease-detector) |
+| **forensic_tool** | React and TypeScript frontend for forensic case management and timelines. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/forensic_tool) |
+| **web_crawling** | Product review collection with sentiment and emotion keyword classification. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/web_crawling) |
+| **image-expander** | Tkinter and Pillow GUI for adding transparent padding to PNG images. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/image-expander) |
+| **ico_converter** | CLI for converting PNG and SVG images into multi-resolution ICO files. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ico_converter) |
+
+### Portfolio & profile
+
+| Repository | Overview | Type | Link |
+| --- | --- | --- | --- |
+| **rohkyoungmin** | GitHub profile README and profile header assets. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/rohkyoungmin) |
+| **rohkyoungmin.github.io** | Personal portfolio website covering research, experience, and projects. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/rohkyoungmin.github.io) |
+| **kyoungminroh.github.io** | Bilingual academic portfolio with publication and CV materials. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/kyoungminroh.github.io) |
+| **CV** | Curriculum vitae and professional document repository. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/CV) |
+| **my-pages** | Empty repository reserved for Pages-related work. | Repository | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/my-pages) |
+
+### Learning resources
+
+| Repository | Overview | Type | Link |
+| --- | --- | --- | --- |
+| **open-source-cs** | Collection of free university courses for a computer science curriculum. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/open-source-cs) |
+| **dive-into-llms** | Hands-on LLM tutorials and programming exercises. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/dive-into-llms) |
+| **math-science-video-lectures** | Collection of mathematics and science video lecture courses. | Fork | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/math-science-video-lectures) |
 
 ## Patent
 1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Yoonho Choi. "A Malware Detection Model Combining Clustering and Supervised Learning Models," Korean Patent Application No. 10-2025-0098855. Filed.
