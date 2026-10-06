@@ -179,7 +179,7 @@ Supervisor: Prof. Hyungsub Kim
 
 ## Test scores
 
-- TOEFL iBT: Reading 5.5/6.0, Listening 5.0/6.0, Writing 5.5/6.0, Speaking 5.0/6.0, Overall 5.0/6.0 (100/120); CEFR C1 (Advanced Proficiency)
+- TOEFL iBT: Reading 5.5/6.0, Listening 5.0/6.0, Writing 5.5/6.0, Speaking 4.0/6.0, Overall 5.0/6.0 (100/120); CEFR C1 (Advanced Proficiency)
 
 ---
 
