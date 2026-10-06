@@ -22,11 +22,10 @@
   <a href="#test-scores"><img src="https://img.shields.io/badge/Test_Scores-243B53?style=for-the-badge" alt="Test Scores" height="24"></a>
 </p>
 
-<p align="left">
-  I build machine learning models and study the systems that make them trustworthy.<br>
-  My work spans Android malware detection under concept drift, post-quantum cryptography in TEEs, and confidential computing for software-defined vehicles.<br>
-  Research intern at Seoul National University; first-author publications in CMES and ACM SAC.
-</p>
+## About Me
+I build machine learning models and study the systems that make them trustworthy.
+My work spans Android malware detection under concept drift, post-quantum cryptography in TEEs, and confidential computing for software-defined vehicles.
+Research intern at Seoul National University; first-author publications in CMES and ACM SAC.
 
 ## Education
 
