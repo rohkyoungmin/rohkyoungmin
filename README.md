@@ -85,7 +85,7 @@ Supervisor: Prof. Hyungsub Kim
 ### International conference papers
 
 1. **Kyoungmin Roh**, Seungmin Lee, Seong-je Cho, and Youngsup Hwang. “[ALARM: Android Malware Detection with Leiden API Communities and Robust Mixture of Experts](https://dl.acm.org/doi/10.1145/3748522.3779797).” *Proceedings of the 41st ACM/SIGAPP Symposium on Applied Computing (SAC 2026)*, Thessaloniki, Greece, Mar 2026.  
-   [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ALARM) ![BK21+ Outstanding Conference](https://img.shields.io/badge/BK21%2B_Outstanding_Conference-1E40AF?style=flat-square)
+   ![BK21+ Outstanding Conference](https://img.shields.io/badge/BK21%2B_Outstanding_Conference-1E40AF?style=flat-square) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ALARM)
 2. Nahee Kwon, **Kyoungmin Roh**, Youngsup Hwang, Seong-je Cho, and Boojoong Kang. “C-STAR: Cost-Aware Adaptive Learning under Concept Drift for Android Malware Detection.” *Proceedings of the 23rd International Conference on Security and Cryptography (SECRYPT 2026)*, Porto, Portugal, Jul 2026.
 
 ### Domestic journal article
