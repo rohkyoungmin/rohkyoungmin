@@ -23,8 +23,8 @@
 </p>
 
 ## About Me
-I build machine learning models and study the systems that make them trustworthy.
-My work spans Android malware detection under concept drift, post-quantum cryptography in TEEs, and confidential computing for software-defined vehicles.
+I build machine learning models and study the systems that make them trustworthy. 
+My work spans Android malware detection under concept drift, post-quantum cryptography in TEEs, and confidential computing for software-defined vehicles. 
 Research intern at Seoul National University; first-author publications in CMES and ACM SAC.
 
 ## Education
