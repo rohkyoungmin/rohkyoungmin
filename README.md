@@ -40,10 +40,6 @@ Research intern at Seoul National University, with first-author publications in 
 - **Undergraduate thesis:** “Qrust: AI-Powered QR Phishing Detection and Secure QR Generation.” [Project repositories](https://github.com/dku-capstone).
 - **Selected coursework:** Artificial Intelligence and Information Security, Digital Forensics, Reverse Engineering
 
-### Wirye Hanbit High School
-
-**High School Diploma** · Seongnam, Republic of Korea · Mar 2017 – Feb 2020
-
 ## Research Experience
 
 ### Seoul National University | [Security Optimization Research Lab](https://sor.snu.ac.kr/)
@@ -127,7 +123,7 @@ Final rank: Sergeant (SGT)
 2. **[SCA: A Security Descriptor-Guided Logit Calibration Module for Concept Drift Adaptation in Android Malware Detection](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12929707)**  
    Nahee Kwon, **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho.  
    *Korea Computer Congress (KCC 2026)*, Jeju, Republic of Korea, Jun 2026.  
-   ![Outstanding Paper Award](https://img.shields.io/badge/Outstanding_Paper_Award-916B18?style=flat-square)
+
 3. **[Drift-Aware Security Module Based on Louvain Communities for Retraining-Free Android Malware Detection](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12577588)**  
    **Kyoungmin Roh**, Suhyeon Park, and Seong-je Cho.  
    *Korea Software Congress (KSC 2025)*, Yeosu, Republic of Korea, Dec 2025.  
@@ -159,22 +155,15 @@ Final rank: Sergeant (SGT)
 
 ### Featured projects
 
-| Project | Overview | Link |
+| Project | Overview | Links |
 | --- | --- | --- |
 | **SCAN** | Android malware detection using structural clustering and adaptive thresholds (CMES 2026).<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/SCAN) |
 | **ALARM** | Android malware detection using Leiden communities and mixture of experts (ACM SAC 2026).<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Mixture of Experts](https://img.shields.io/badge/Mixture_of_Experts-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/ALARM) |
-| **MLKEM-Split** | ML-KEM partitioning prototype with information-flow control and TEE secret isolation.<br>![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![TEE](https://img.shields.io/badge/TEE-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/MLKEM-Split) |
-| **AISECApp** | C/C++ vulnerability analysis agents with NVD CVE mapping and deterministic evidence verification.<br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![LLM Agents](https://img.shields.io/badge/LLM_Agents-475569?style=flat-square) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/AISECApp) |
+| **ML-KEM / Kyber Split** | Related TrustZone-A research prototypes: information-flow-based ML-KEM partitioning and secret-isolation interfaces, plus Kyber split-design documentation and an OP-TEE client/TA scaffold.<br>![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![OP-TEE](https://img.shields.io/badge/OP--TEE-475569?style=flat-square) | [ML-KEM prototype](https://github.com/rohkyoungmin/MLKEM-Split) · [Kyber / OP-TEE](https://github.com/Cyber-Security-Contest/Kyber-Split) |
+| **AISECApp / LV.0** | AI-assisted source-code vulnerability analysis: NVD CVE mapping and evidence verification in AISECApp; Semgrep/Claude analysis and PDF reporting in LV.0. **LV.0 role: team lead and AI/security.**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM Agents](https://img.shields.io/badge/LLM_Agents-475569?style=flat-square) | [AISECApp](https://github.com/rohkyoungmin/AISECApp) · [LV.0](https://github.com/Gaurdians-of-the-Open-Source/final-result) · [Analysis services](https://github.com/Gaurdians-of-the-Open-Source/Security) |
 | **lidar_car_project** | ROS 2 robot car with web control, live LiDAR scans, and obstacle detection.<br>![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat-square&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rohkyoungmin/lidar_car_project) |
-
-### Organization projects
-
-| Project | Overview | Links |
-| --- | --- | --- |
 | **QRust** | QR phishing detection and QR-code generation service with a Flutter client, Random Forest URL classification, a Flask inference API, and a Spring Boot backend. **Role: frontend and AI.**<br>![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-475569?style=flat-square) | [Overview](https://github.com/dku-capstone) · [AI](https://github.com/dku-capstone/QRust-AI) · [Frontend](https://github.com/dku-capstone/QRust-FE) · [Backend](https://github.com/dku-capstone/QRust-BE) |
 | **Document Summarizer** | Claude-assisted PDF, TXT, and DOCX summarization with project-based summary management, JWT authentication, a React frontend, FastAPI backend, and Kubernetes deployment manifests.<br>![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | [Backend](https://github.com/DKU-OSS-development/Backend-API) · [Frontend](https://github.com/DKU-OSS-development/Frontend) · [Infrastructure](https://github.com/DKU-OSS-development/Infrastructure) · [Documentation](https://github.com/DKU-OSS-development/Documentary) |
-| **LV.0 (LLM Vulnerability Zero)** | Source-code security review platform combining Semgrep static analysis, Claude-assisted vulnerability explanations, and PDF reporting through Flask services, with a React/TypeScript/Electron interface. **Role: team lead and AI/security.**<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Semgrep](https://img.shields.io/badge/Semgrep-475569?style=flat-square) | [Overview](https://github.com/Gaurdians-of-the-Open-Source) · [Application](https://github.com/Gaurdians-of-the-Open-Source/final-result) · [Analysis services](https://github.com/Gaurdians-of-the-Open-Source/Security) |
-| **Kyber-Split** | Design documentation for secret-isolated Kyber/ML-KEM on Arm TrustZone-A, with an OP-TEE client/TA communication scaffold.<br>![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![OP-TEE](https://img.shields.io/badge/OP--TEE-475569?style=flat-square) | [Repository](https://github.com/Cyber-Security-Contest/Kyber-Split) · [Design](https://github.com/Cyber-Security-Contest/Kyber-Split/blob/main/documentation.md) |
 
 <details>
 <summary><strong>More projects and tools (8)</strong></summary>
@@ -237,25 +226,13 @@ Final rank: Sergeant (SGT)
 
 ## Additional Coursework and Training
 
-### Chinese Native-Speaker Tutoring Program
-
-**Dankook University, Office of International Affairs** · Sep 2025 – Dec 2025
-
-- Completed weekly one-on-one sessions with a native Chinese instructor, strengthening speaking, listening, and cross-cultural communication through sustained conversational practice.
-
 ### LG Aimers AI Bootcamp
 
 **LG AI Research** · Jun 2023 – Jul 2023
 
 - Solved a smart-factory classification task after intensive coursework in machine learning, deep learning, linear algebra, and statistics. Led model training, evaluation design, and the final team presentation.
 
-## Extracurricular Activities
-
-### Buddhist Club | Dankook University
-
-**Member** · Mar 2026 – Present
-
-- Participated in prayer bead-making and Templestay events.
+## Security Activities
 
 ### AEGIS Cybersecurity Club | Dankook University
 
@@ -270,37 +247,17 @@ Final rank: Sergeant (SGT)
 
 - Author cybersecurity-awareness and technical articles for a global OSINT education platform, translating technical topics into practical guidance for non-specialist readers.
 
-### Modakbul Guitar Club | Dankook University
-
-**Member** · Mar 2022 – Feb 2026
-
-- Practiced acoustic guitar and performed on stage in fall 2022.
-
 ### RubiyaLab CTF Team | HSPACE
 
 **Member** · Jul 2025 – Nov 2025
 
 - Competed in international hacking competitions, focusing on cryptography and reverse engineering, as a member of a team ranked **No. 1 in South Korea and No. 23 worldwide on CTFtime as of 2025**.
 
-### Kendo Club | Dankook University
-
-**Assistant Instructor & Member** · Mar 2022 – Dec 2022
-
-- Mentored international junior members on fundamental kendo techniques and etiquette, helping them integrate into the club.
-
 ### Turing Crypto Club | Dankook University, Department of Industrial Security
 
 **Member** · May 2022 – Dec 2022
 
 - Studied core applied-cryptography constructions with peers and delivered seminar presentations.
-
-## Volunteer Experience
-
-### Rural Volunteer Service
-
-**Volunteer** · Buyeo, Republic of Korea · Sep 2025
-
-- Assisted with greenhouse maintenance and chestnut harvesting through a national rural-volunteering initiative, completing **21 service hours**.
 
 ## Professional Affiliations
 
@@ -309,18 +266,6 @@ Final rank: Sergeant (SGT)
 **Member** · Dec 2025 – Dec 2026
 
 - Invited to join in recognition of the **KSC 2025 Best Paper Award**.
-
-### Korean Defense Veterans Association (KDVA)
-
-**Member** · Aug 2025 – Present
-
-- Made a donation in support of the Korean-American military alliance.
-
-### KATUSA Veterans Association (KVA)
-
-**Member** · Feb 2025 – Present
-
-- Became a member after being discharged from KATUSA service.
 
 ## Certificates
 
@@ -333,7 +278,6 @@ Final rank: Sergeant (SGT)
 - **Japanese:** Conversational proficiency
 - **Chinese:** Basic
 - **Arabic:** Basic
-
 
 ---
 
